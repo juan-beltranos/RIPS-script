@@ -1,0 +1,2448 @@
+{
+    "numDocumentoIdObligado":"900615719",
+    "numFactura":"CAS631",
+    "tipoNota":null,
+    "numNota":null,
+    "usuarios":[
+        {
+             "tipoDocumentoIdentificacion":"CC",
+             "numDocumentoIdentificacion": "1000215575",
+             "tipoUsuario": "12",
+             "fechaNacimiento": "2002-07-09",
+             "codSexo": "F",
+             "codPaisResidencia": "170",
+             "codMunicipioResidencia": "11001",
+             "codZonaTerritorialResidencia": "01",
+             "incapacidad": "NO",
+             "consecutivo":1,
+             "codPaisOrigen":"170",
+             "servicios": {
+                 "consultas": [
+                     {
+                         "codPrestador": "110012726601",
+                         "fechaInicioAtencion": "2026-01-16 11:28",
+                         "numAutorizacion": "",
+                         "codConsulta": "890262",
+                         "modalidadGrupoServicioTecSal": "01",
+                         "grupoServicios": "01",
+                         "codServicio": 423,
+                         "finalidadTecnologiaSalud": "13",
+                         "causaMotivoAtencion": "40",
+                         "codDiagnosticoPrincipal": "Z100",
+                         "codDiagnosticoRelacionado1": null,
+                         "codDiagnosticoRelacionado2": null,
+                         "codDiagnosticoRelacionado3": null,
+                         "tipoDiagnosticoPrincipal": "01",
+                         "tipoDocumentoIdentificacion": "CC",
+                         "numDocumentoIdentificacion": "79687876",
+                         "vrServicio": 34000,
+                         "conceptoRecaudo": "05",
+                         "valorPagoModerador": 0,
+                         "numFEVPagoModerador": null,
+                         "consecutivo": 1
+                     }
+                 ]
+             }
+        },
+        {
+             "tipoDocumentoIdentificacion":"CC",
+             "numDocumentoIdentificacion": "1000933219",
+             "tipoUsuario": "12",
+             "fechaNacimiento": "2002-12-02",
+             "codSexo": "F",
+             "codPaisResidencia": "170",
+             "codMunicipioResidencia": "11001",
+             "codZonaTerritorialResidencia": "01",
+             "incapacidad": "NO",
+             "consecutivo":2,
+             "codPaisOrigen":"170",
+             "servicios": {
+                 "consultas": [
+                     {
+                         "codPrestador": "110012726601",
+                         "fechaInicioAtencion": "2026-01-14 07:49",
+                         "numAutorizacion": "",
+                         "codConsulta": "890262",
+                         "modalidadGrupoServicioTecSal": "01",
+                         "grupoServicios": "01",
+                         "codServicio": 423,
+                         "finalidadTecnologiaSalud": "13",
+                         "causaMotivoAtencion": "40",
+                         "codDiagnosticoPrincipal": "Z100",
+                         "codDiagnosticoRelacionado1": null,
+                         "codDiagnosticoRelacionado2": null,
+                         "codDiagnosticoRelacionado3": null,
+                         "tipoDiagnosticoPrincipal": "01",
+                         "tipoDocumentoIdentificacion": "CC",
+                         "numDocumentoIdentificacion": "11189178",
+                         "vrServicio": 34000,
+                         "conceptoRecaudo": "05",
+                         "valorPagoModerador": 0,
+                         "numFEVPagoModerador": null,
+                         "consecutivo": 1
+                     }
+                 ]
+             }
+        },
+        {
+             "tipoDocumentoIdentificacion":"CC",
+             "numDocumentoIdentificacion": "1001054242",
+             "tipoUsuario": "12",
+             "fechaNacimiento": "2000-06-28",
+             "codSexo": "F",
+             "codPaisResidencia": "170",
+             "codMunicipioResidencia": "11001",
+             "codZonaTerritorialResidencia": "01",
+             "incapacidad": "NO",
+             "consecutivo":3,
+             "codPaisOrigen":"170",
+             "servicios": {
+                 "consultas": [
+                     {
+                         "codPrestador": "110012726601",
+                         "fechaInicioAtencion": "2026-01-13 13:55",
+                         "numAutorizacion": "",
+                         "codConsulta": "890262",
+                         "modalidadGrupoServicioTecSal": "01",
+                         "grupoServicios": "01",
+                         "codServicio": 423,
+                         "finalidadTecnologiaSalud": "13",
+                         "causaMotivoAtencion": "40",
+                         "codDiagnosticoPrincipal": "Z100",
+                         "codDiagnosticoRelacionado1": null,
+                         "codDiagnosticoRelacionado2": null,
+                         "codDiagnosticoRelacionado3": null,
+                         "tipoDiagnosticoPrincipal": "01",
+                         "tipoDocumentoIdentificacion": "CC",
+                         "numDocumentoIdentificacion": "11189178",
+                         "vrServicio": 34000,
+                         "conceptoRecaudo": "05",
+                         "valorPagoModerador": 0,
+                         "numFEVPagoModerador": null,
+                         "consecutivo": 1
+                     }
+                 ]
+             }
+        },
+        {
+             "tipoDocumentoIdentificacion":"CC",
+             "numDocumentoIdentificacion": "1001118152",
+             "tipoUsuario": "12",
+             "fechaNacimiento": "2002-11-26",
+             "codSexo": "F",
+             "codPaisResidencia": "170",
+             "codMunicipioResidencia": "11001",
+             "codZonaTerritorialResidencia": "01",
+             "incapacidad": "NO",
+             "consecutivo":4,
+             "codPaisOrigen":"170",
+             "servicios": {
+                 "consultas": [
+                     {
+                         "codPrestador": "110012726601",
+                         "fechaInicioAtencion": "2026-01-13 09:36",
+                         "numAutorizacion": "",
+                         "codConsulta": "890262",
+                         "modalidadGrupoServicioTecSal": "01",
+                         "grupoServicios": "01",
+                         "codServicio": 423,
+                         "finalidadTecnologiaSalud": "13",
+                         "causaMotivoAtencion": "40",
+                         "codDiagnosticoPrincipal": "Z100",
+                         "codDiagnosticoRelacionado1": null,
+                         "codDiagnosticoRelacionado2": null,
+                         "codDiagnosticoRelacionado3": null,
+                         "tipoDiagnosticoPrincipal": "01",
+                         "tipoDocumentoIdentificacion": "CC",
+                         "numDocumentoIdentificacion": "11189178",
+                         "vrServicio": 34000,
+                         "conceptoRecaudo": "05",
+                         "valorPagoModerador": 0,
+                         "numFEVPagoModerador": null,
+                         "consecutivo": 1
+                     }
+                 ]
+             }
+        },
+        {
+             "tipoDocumentoIdentificacion":"CC",
+             "numDocumentoIdentificacion": "1001330675",
+             "tipoUsuario": "12",
+             "fechaNacimiento": "2002-03-07",
+             "codSexo": "F",
+             "codPaisResidencia": "170",
+             "codMunicipioResidencia": "11001",
+             "codZonaTerritorialResidencia": "01",
+             "incapacidad": "NO",
+             "consecutivo":5,
+             "codPaisOrigen":"170",
+             "servicios": {
+                 "consultas": [
+                     {
+                         "codPrestador": "110012726601",
+                         "fechaInicioAtencion": "2026-01-13 14:19",
+                         "numAutorizacion": "",
+                         "codConsulta": "890262",
+                         "modalidadGrupoServicioTecSal": "01",
+                         "grupoServicios": "01",
+                         "codServicio": 423,
+                         "finalidadTecnologiaSalud": "13",
+                         "causaMotivoAtencion": "40",
+                         "codDiagnosticoPrincipal": "Z100",
+                         "codDiagnosticoRelacionado1": null,
+                         "codDiagnosticoRelacionado2": null,
+                         "codDiagnosticoRelacionado3": null,
+                         "tipoDiagnosticoPrincipal": "01",
+                         "tipoDocumentoIdentificacion": "CC",
+                         "numDocumentoIdentificacion": "11189178",
+                         "vrServicio": 34000,
+                         "conceptoRecaudo": "05",
+                         "valorPagoModerador": 0,
+                         "numFEVPagoModerador": null,
+                         "consecutivo": 1
+                     }
+                 ]
+             }
+        },
+        {
+             "tipoDocumentoIdentificacion":"CC",
+             "numDocumentoIdentificacion": "1010155848",
+             "tipoUsuario": "12",
+             "fechaNacimiento": "2001-10-26",
+             "codSexo": "F",
+             "codPaisResidencia": "170",
+             "codMunicipioResidencia": "11001",
+             "codZonaTerritorialResidencia": "01",
+             "incapacidad": "NO",
+             "consecutivo":6,
+             "codPaisOrigen":"170",
+             "servicios": {
+                 "consultas": [
+                     {
+                         "codPrestador": "110012726601",
+                         "fechaInicioAtencion": "2026-01-14 08:12",
+                         "numAutorizacion": "",
+                         "codConsulta": "890262",
+                         "modalidadGrupoServicioTecSal": "01",
+                         "grupoServicios": "01",
+                         "codServicio": 423,
+                         "finalidadTecnologiaSalud": "13",
+                         "causaMotivoAtencion": "40",
+                         "codDiagnosticoPrincipal": "Z100",
+                         "codDiagnosticoRelacionado1": null,
+                         "codDiagnosticoRelacionado2": null,
+                         "codDiagnosticoRelacionado3": null,
+                         "tipoDiagnosticoPrincipal": "01",
+                         "tipoDocumentoIdentificacion": "CC",
+                         "numDocumentoIdentificacion": "11189178",
+                         "vrServicio": 34000,
+                         "conceptoRecaudo": "05",
+                         "valorPagoModerador": 0,
+                         "numFEVPagoModerador": null,
+                         "consecutivo": 1
+                     }
+                 ]
+             }
+        },
+        {
+             "tipoDocumentoIdentificacion":"CC",
+             "numDocumentoIdentificacion": "1010209308",
+             "tipoUsuario": "12",
+             "fechaNacimiento": "1993-05-08",
+             "codSexo": "F",
+             "codPaisResidencia": "170",
+             "codMunicipioResidencia": "11001",
+             "codZonaTerritorialResidencia": "01",
+             "incapacidad": "NO",
+             "consecutivo":7,
+             "codPaisOrigen":"170",
+             "servicios": {
+                 "consultas": [
+                     {
+                         "codPrestador": "110012726601",
+                         "fechaInicioAtencion": "2026-01-14 07:59",
+                         "numAutorizacion": "",
+                         "codConsulta": "890262",
+                         "modalidadGrupoServicioTecSal": "01",
+                         "grupoServicios": "01",
+                         "codServicio": 423,
+                         "finalidadTecnologiaSalud": "13",
+                         "causaMotivoAtencion": "40",
+                         "codDiagnosticoPrincipal": "Z100",
+                         "codDiagnosticoRelacionado1": null,
+                         "codDiagnosticoRelacionado2": null,
+                         "codDiagnosticoRelacionado3": null,
+                         "tipoDiagnosticoPrincipal": "01",
+                         "tipoDocumentoIdentificacion": "CC",
+                         "numDocumentoIdentificacion": "11189178",
+                         "vrServicio": 34000,
+                         "conceptoRecaudo": "05",
+                         "valorPagoModerador": 0,
+                         "numFEVPagoModerador": null,
+                         "consecutivo": 1
+                     }
+                 ]
+             }
+        },
+        {
+             "tipoDocumentoIdentificacion":"CC",
+             "numDocumentoIdentificacion": "1013114776",
+             "tipoUsuario": "12",
+             "fechaNacimiento": "2007-03-15",
+             "codSexo": "F",
+             "codPaisResidencia": "170",
+             "codMunicipioResidencia": "11001",
+             "codZonaTerritorialResidencia": "01",
+             "incapacidad": "NO",
+             "consecutivo":8,
+             "codPaisOrigen":"170",
+             "servicios": {
+                 "consultas": [
+                     {
+                         "codPrestador": "110012726601",
+                         "fechaInicioAtencion": "2026-01-14 08:51",
+                         "numAutorizacion": "",
+                         "codConsulta": "890262",
+                         "modalidadGrupoServicioTecSal": "01",
+                         "grupoServicios": "01",
+                         "codServicio": 423,
+                         "finalidadTecnologiaSalud": "13",
+                         "causaMotivoAtencion": "40",
+                         "codDiagnosticoPrincipal": "Z100",
+                         "codDiagnosticoRelacionado1": null,
+                         "codDiagnosticoRelacionado2": null,
+                         "codDiagnosticoRelacionado3": null,
+                         "tipoDiagnosticoPrincipal": "01",
+                         "tipoDocumentoIdentificacion": "CC",
+                         "numDocumentoIdentificacion": "11189178",
+                         "vrServicio": 34000,
+                         "conceptoRecaudo": "05",
+                         "valorPagoModerador": 0,
+                         "numFEVPagoModerador": null,
+                         "consecutivo": 1
+                     }
+                 ]
+             }
+        },
+        {
+             "tipoDocumentoIdentificacion":"CC",
+             "numDocumentoIdentificacion": "1013634305",
+             "tipoUsuario": "12",
+             "fechaNacimiento": "1992-08-17",
+             "codSexo": "F",
+             "codPaisResidencia": "170",
+             "codMunicipioResidencia": "11001",
+             "codZonaTerritorialResidencia": "01",
+             "incapacidad": "NO",
+             "consecutivo":9,
+             "codPaisOrigen":"170",
+             "servicios": {
+                 "consultas": [
+                     {
+                         "codPrestador": "110012726601",
+                         "fechaInicioAtencion": "2026-01-14 10:32",
+                         "numAutorizacion": "",
+                         "codConsulta": "890262",
+                         "modalidadGrupoServicioTecSal": "01",
+                         "grupoServicios": "01",
+                         "codServicio": 423,
+                         "finalidadTecnologiaSalud": "13",
+                         "causaMotivoAtencion": "40",
+                         "codDiagnosticoPrincipal": "Z100",
+                         "codDiagnosticoRelacionado1": null,
+                         "codDiagnosticoRelacionado2": null,
+                         "codDiagnosticoRelacionado3": null,
+                         "tipoDiagnosticoPrincipal": "01",
+                         "tipoDocumentoIdentificacion": "CC",
+                         "numDocumentoIdentificacion": "11189178",
+                         "vrServicio": 34000,
+                         "conceptoRecaudo": "05",
+                         "valorPagoModerador": 0,
+                         "numFEVPagoModerador": null,
+                         "consecutivo": 1
+                     }
+                 ]
+             }
+        },
+        {
+             "tipoDocumentoIdentificacion":"CC",
+             "numDocumentoIdentificacion": "1013682757",
+             "tipoUsuario": "12",
+             "fechaNacimiento": "1998-07-10",
+             "codSexo": "F",
+             "codPaisResidencia": "170",
+             "codMunicipioResidencia": "11001",
+             "codZonaTerritorialResidencia": "01",
+             "incapacidad": "NO",
+             "consecutivo":10,
+             "codPaisOrigen":"170",
+             "servicios": {
+                 "consultas": [
+                     {
+                         "codPrestador": "110012726601",
+                         "fechaInicioAtencion": "2026-01-13 15:53",
+                         "numAutorizacion": "",
+                         "codConsulta": "890262",
+                         "modalidadGrupoServicioTecSal": "01",
+                         "grupoServicios": "01",
+                         "codServicio": 423,
+                         "finalidadTecnologiaSalud": "13",
+                         "causaMotivoAtencion": "40",
+                         "codDiagnosticoPrincipal": "Z100",
+                         "codDiagnosticoRelacionado1": null,
+                         "codDiagnosticoRelacionado2": null,
+                         "codDiagnosticoRelacionado3": null,
+                         "tipoDiagnosticoPrincipal": "01",
+                         "tipoDocumentoIdentificacion": "CC",
+                         "numDocumentoIdentificacion": "11189178",
+                         "vrServicio": 34000,
+                         "conceptoRecaudo": "05",
+                         "valorPagoModerador": 0,
+                         "numFEVPagoModerador": null,
+                         "consecutivo": 1
+                     }
+                 ]
+             }
+        },
+        {
+             "tipoDocumentoIdentificacion":"CC",
+             "numDocumentoIdentificacion": "1014277392",
+             "tipoUsuario": "12",
+             "fechaNacimiento": "1996-05-18",
+             "codSexo": "M",
+             "codPaisResidencia": "170",
+             "codMunicipioResidencia": "11001",
+             "codZonaTerritorialResidencia": "01",
+             "incapacidad": "NO",
+             "consecutivo":11,
+             "codPaisOrigen":"170",
+             "servicios": {
+                 "consultas": [
+                     {
+                         "codPrestador": "110012726601",
+                         "fechaInicioAtencion": "2026-01-13 11:33",
+                         "numAutorizacion": "",
+                         "codConsulta": "890262",
+                         "modalidadGrupoServicioTecSal": "01",
+                         "grupoServicios": "01",
+                         "codServicio": 423,
+                         "finalidadTecnologiaSalud": "13",
+                         "causaMotivoAtencion": "40",
+                         "codDiagnosticoPrincipal": "Z100",
+                         "codDiagnosticoRelacionado1": null,
+                         "codDiagnosticoRelacionado2": null,
+                         "codDiagnosticoRelacionado3": null,
+                         "tipoDiagnosticoPrincipal": "01",
+                         "tipoDocumentoIdentificacion": "CC",
+                         "numDocumentoIdentificacion": "11189178",
+                         "vrServicio": 34000,
+                         "conceptoRecaudo": "05",
+                         "valorPagoModerador": 0,
+                         "numFEVPagoModerador": null,
+                         "consecutivo": 1
+                     }
+                 ]
+             }
+        },
+        {
+             "tipoDocumentoIdentificacion":"CC",
+             "numDocumentoIdentificacion": "1014301489",
+             "tipoUsuario": "12",
+             "fechaNacimiento": "1998-11-01",
+             "codSexo": "F",
+             "codPaisResidencia": "170",
+             "codMunicipioResidencia": "11001",
+             "codZonaTerritorialResidencia": "01",
+             "incapacidad": "NO",
+             "consecutivo":12,
+             "codPaisOrigen":"170",
+             "servicios": {
+                 "consultas": [
+                     {
+                         "codPrestador": "110012726601",
+                         "fechaInicioAtencion": "2026-01-13 09:50",
+                         "numAutorizacion": "",
+                         "codConsulta": "890262",
+                         "modalidadGrupoServicioTecSal": "01",
+                         "grupoServicios": "01",
+                         "codServicio": 423,
+                         "finalidadTecnologiaSalud": "13",
+                         "causaMotivoAtencion": "40",
+                         "codDiagnosticoPrincipal": "Z100",
+                         "codDiagnosticoRelacionado1": null,
+                         "codDiagnosticoRelacionado2": null,
+                         "codDiagnosticoRelacionado3": null,
+                         "tipoDiagnosticoPrincipal": "01",
+                         "tipoDocumentoIdentificacion": "CC",
+                         "numDocumentoIdentificacion": "11189178",
+                         "vrServicio": 34000,
+                         "conceptoRecaudo": "05",
+                         "valorPagoModerador": 0,
+                         "numFEVPagoModerador": null,
+                         "consecutivo": 1
+                     }
+                 ]
+             }
+        },
+        {
+             "tipoDocumentoIdentificacion":"CC",
+             "numDocumentoIdentificacion": "1015426975",
+             "tipoUsuario": "12",
+             "fechaNacimiento": "1991-10-28",
+             "codSexo": "M",
+             "codPaisResidencia": "170",
+             "codMunicipioResidencia": "11001",
+             "codZonaTerritorialResidencia": "01",
+             "incapacidad": "NO",
+             "consecutivo":13,
+             "codPaisOrigen":"170",
+             "servicios": {
+                 "consultas": [
+                     {
+                         "codPrestador": "110012726601",
+                         "fechaInicioAtencion": "2026-01-13 11:22",
+                         "numAutorizacion": "",
+                         "codConsulta": "890262",
+                         "modalidadGrupoServicioTecSal": "01",
+                         "grupoServicios": "01",
+                         "codServicio": 423,
+                         "finalidadTecnologiaSalud": "13",
+                         "causaMotivoAtencion": "40",
+                         "codDiagnosticoPrincipal": "Z100",
+                         "codDiagnosticoRelacionado1": null,
+                         "codDiagnosticoRelacionado2": null,
+                         "codDiagnosticoRelacionado3": null,
+                         "tipoDiagnosticoPrincipal": "01",
+                         "tipoDocumentoIdentificacion": "CC",
+                         "numDocumentoIdentificacion": "11189178",
+                         "vrServicio": 34000,
+                         "conceptoRecaudo": "05",
+                         "valorPagoModerador": 0,
+                         "numFEVPagoModerador": null,
+                         "consecutivo": 1
+                     }
+                 ]
+             }
+        },
+        {
+             "tipoDocumentoIdentificacion":"CC",
+             "numDocumentoIdentificacion": "1016017224",
+             "tipoUsuario": "12",
+             "fechaNacimiento": "1989-01-10",
+             "codSexo": "F",
+             "codPaisResidencia": "170",
+             "codMunicipioResidencia": "11001",
+             "codZonaTerritorialResidencia": "01",
+             "incapacidad": "NO",
+             "consecutivo":14,
+             "codPaisOrigen":"170",
+             "servicios": {
+                 "consultas": [
+                     {
+                         "codPrestador": "110012726601",
+                         "fechaInicioAtencion": "2026-01-13 09:05",
+                         "numAutorizacion": "",
+                         "codConsulta": "890262",
+                         "modalidadGrupoServicioTecSal": "01",
+                         "grupoServicios": "01",
+                         "codServicio": 423,
+                         "finalidadTecnologiaSalud": "13",
+                         "causaMotivoAtencion": "40",
+                         "codDiagnosticoPrincipal": "Z100",
+                         "codDiagnosticoRelacionado1": null,
+                         "codDiagnosticoRelacionado2": null,
+                         "codDiagnosticoRelacionado3": null,
+                         "tipoDiagnosticoPrincipal": "01",
+                         "tipoDocumentoIdentificacion": "CC",
+                         "numDocumentoIdentificacion": "11189178",
+                         "vrServicio": 34000,
+                         "conceptoRecaudo": "05",
+                         "valorPagoModerador": 0,
+                         "numFEVPagoModerador": null,
+                         "consecutivo": 1
+                     }
+                 ]
+             }
+        },
+        {
+             "tipoDocumentoIdentificacion":"CC",
+             "numDocumentoIdentificacion": "1016051521",
+             "tipoUsuario": "12",
+             "fechaNacimiento": "1992-12-12",
+             "codSexo": "F",
+             "codPaisResidencia": "170",
+             "codMunicipioResidencia": "11001",
+             "codZonaTerritorialResidencia": "01",
+             "incapacidad": "NO",
+             "consecutivo":15,
+             "codPaisOrigen":"170",
+             "servicios": {
+                 "consultas": [
+                     {
+                         "codPrestador": "110012726601",
+                         "fechaInicioAtencion": "2026-01-13 10:40",
+                         "numAutorizacion": "",
+                         "codConsulta": "890262",
+                         "modalidadGrupoServicioTecSal": "01",
+                         "grupoServicios": "01",
+                         "codServicio": 423,
+                         "finalidadTecnologiaSalud": "13",
+                         "causaMotivoAtencion": "40",
+                         "codDiagnosticoPrincipal": "Z100",
+                         "codDiagnosticoRelacionado1": null,
+                         "codDiagnosticoRelacionado2": null,
+                         "codDiagnosticoRelacionado3": null,
+                         "tipoDiagnosticoPrincipal": "01",
+                         "tipoDocumentoIdentificacion": "CC",
+                         "numDocumentoIdentificacion": "11189178",
+                         "vrServicio": 34000,
+                         "conceptoRecaudo": "05",
+                         "valorPagoModerador": 0,
+                         "numFEVPagoModerador": null,
+                         "consecutivo": 1
+                     }
+                 ]
+             }
+        },
+        {
+             "tipoDocumentoIdentificacion":"CC",
+             "numDocumentoIdentificacion": "1023000706",
+             "tipoUsuario": "12",
+             "fechaNacimiento": "1994-12-15",
+             "codSexo": "F",
+             "codPaisResidencia": "170",
+             "codMunicipioResidencia": "11001",
+             "codZonaTerritorialResidencia": "01",
+             "incapacidad": "NO",
+             "consecutivo":16,
+             "codPaisOrigen":"170",
+             "servicios": {
+                 "consultas": [
+                     {
+                         "codPrestador": "110012726601",
+                         "fechaInicioAtencion": "2026-01-14 09:31",
+                         "numAutorizacion": "",
+                         "codConsulta": "890262",
+                         "modalidadGrupoServicioTecSal": "01",
+                         "grupoServicios": "01",
+                         "codServicio": 423,
+                         "finalidadTecnologiaSalud": "13",
+                         "causaMotivoAtencion": "40",
+                         "codDiagnosticoPrincipal": "Z100",
+                         "codDiagnosticoRelacionado1": null,
+                         "codDiagnosticoRelacionado2": null,
+                         "codDiagnosticoRelacionado3": null,
+                         "tipoDiagnosticoPrincipal": "01",
+                         "tipoDocumentoIdentificacion": "CC",
+                         "numDocumentoIdentificacion": "11189178",
+                         "vrServicio": 34000,
+                         "conceptoRecaudo": "05",
+                         "valorPagoModerador": 0,
+                         "numFEVPagoModerador": null,
+                         "consecutivo": 1
+                     }
+                 ]
+             }
+        },
+        {
+             "tipoDocumentoIdentificacion":"CC",
+             "numDocumentoIdentificacion": "1023002522",
+             "tipoUsuario": "12",
+             "fechaNacimiento": "1995-01-27",
+             "codSexo": "F",
+             "codPaisResidencia": "170",
+             "codMunicipioResidencia": "11001",
+             "codZonaTerritorialResidencia": "01",
+             "incapacidad": "NO",
+             "consecutivo":17,
+             "codPaisOrigen":"170",
+             "servicios": {
+                 "consultas": [
+                     {
+                         "codPrestador": "110012726601",
+                         "fechaInicioAtencion": "2026-01-14 10:52",
+                         "numAutorizacion": "",
+                         "codConsulta": "890262",
+                         "modalidadGrupoServicioTecSal": "01",
+                         "grupoServicios": "01",
+                         "codServicio": 423,
+                         "finalidadTecnologiaSalud": "13",
+                         "causaMotivoAtencion": "40",
+                         "codDiagnosticoPrincipal": "Z100",
+                         "codDiagnosticoRelacionado1": null,
+                         "codDiagnosticoRelacionado2": null,
+                         "codDiagnosticoRelacionado3": null,
+                         "tipoDiagnosticoPrincipal": "01",
+                         "tipoDocumentoIdentificacion": "CC",
+                         "numDocumentoIdentificacion": "11189178",
+                         "vrServicio": 34000,
+                         "conceptoRecaudo": "05",
+                         "valorPagoModerador": 0,
+                         "numFEVPagoModerador": null,
+                         "consecutivo": 1
+                     }
+                 ]
+             }
+        },
+        {
+             "tipoDocumentoIdentificacion":"CC",
+             "numDocumentoIdentificacion": "1023035867",
+             "tipoUsuario": "12",
+             "fechaNacimiento": "1999-05-31",
+             "codSexo": "F",
+             "codPaisResidencia": "170",
+             "codMunicipioResidencia": "11001",
+             "codZonaTerritorialResidencia": "01",
+             "incapacidad": "NO",
+             "consecutivo":18,
+             "codPaisOrigen":"170",
+             "servicios": {
+                 "consultas": [
+                     {
+                         "codPrestador": "110012726601",
+                         "fechaInicioAtencion": "2026-01-15 09:43",
+                         "numAutorizacion": "",
+                         "codConsulta": "890262",
+                         "modalidadGrupoServicioTecSal": "01",
+                         "grupoServicios": "01",
+                         "codServicio": 423,
+                         "finalidadTecnologiaSalud": "13",
+                         "causaMotivoAtencion": "40",
+                         "codDiagnosticoPrincipal": "Z100",
+                         "codDiagnosticoRelacionado1": null,
+                         "codDiagnosticoRelacionado2": null,
+                         "codDiagnosticoRelacionado3": null,
+                         "tipoDiagnosticoPrincipal": "01",
+                         "tipoDocumentoIdentificacion": "CC",
+                         "numDocumentoIdentificacion": "11189178",
+                         "vrServicio": 34000,
+                         "conceptoRecaudo": "05",
+                         "valorPagoModerador": 0,
+                         "numFEVPagoModerador": null,
+                         "consecutivo": 1
+                     }
+                 ]
+             }
+        },
+        {
+             "tipoDocumentoIdentificacion":"CC",
+             "numDocumentoIdentificacion": "1023362925",
+             "tipoUsuario": "12",
+             "fechaNacimiento": "2004-01-13",
+             "codSexo": "F",
+             "codPaisResidencia": "170",
+             "codMunicipioResidencia": "11001",
+             "codZonaTerritorialResidencia": "01",
+             "incapacidad": "NO",
+             "consecutivo":19,
+             "codPaisOrigen":"170",
+             "servicios": {
+                 "consultas": [
+                     {
+                         "codPrestador": "110012726601",
+                         "fechaInicioAtencion": "2026-01-14 10:45",
+                         "numAutorizacion": "",
+                         "codConsulta": "890262",
+                         "modalidadGrupoServicioTecSal": "01",
+                         "grupoServicios": "01",
+                         "codServicio": 423,
+                         "finalidadTecnologiaSalud": "13",
+                         "causaMotivoAtencion": "40",
+                         "codDiagnosticoPrincipal": "Z100",
+                         "codDiagnosticoRelacionado1": null,
+                         "codDiagnosticoRelacionado2": null,
+                         "codDiagnosticoRelacionado3": null,
+                         "tipoDiagnosticoPrincipal": "01",
+                         "tipoDocumentoIdentificacion": "CC",
+                         "numDocumentoIdentificacion": "11189178",
+                         "vrServicio": 34000,
+                         "conceptoRecaudo": "05",
+                         "valorPagoModerador": 0,
+                         "numFEVPagoModerador": null,
+                         "consecutivo": 1
+                     }
+                 ]
+             }
+        },
+        {
+             "tipoDocumentoIdentificacion":"CC",
+             "numDocumentoIdentificacion": "1030604944",
+             "tipoUsuario": "12",
+             "fechaNacimiento": "1992-01-23",
+             "codSexo": "F",
+             "codPaisResidencia": "170",
+             "codMunicipioResidencia": "11001",
+             "codZonaTerritorialResidencia": "01",
+             "incapacidad": "NO",
+             "consecutivo":20,
+             "codPaisOrigen":"170",
+             "servicios": {
+                 "consultas": [
+                     {
+                         "codPrestador": "110012726601",
+                         "fechaInicioAtencion": "2026-01-15 09:56",
+                         "numAutorizacion": "",
+                         "codConsulta": "890262",
+                         "modalidadGrupoServicioTecSal": "01",
+                         "grupoServicios": "01",
+                         "codServicio": 423,
+                         "finalidadTecnologiaSalud": "13",
+                         "causaMotivoAtencion": "40",
+                         "codDiagnosticoPrincipal": "Z100",
+                         "codDiagnosticoRelacionado1": null,
+                         "codDiagnosticoRelacionado2": null,
+                         "codDiagnosticoRelacionado3": null,
+                         "tipoDiagnosticoPrincipal": "01",
+                         "tipoDocumentoIdentificacion": "CC",
+                         "numDocumentoIdentificacion": "11189178",
+                         "vrServicio": 34000,
+                         "conceptoRecaudo": "05",
+                         "valorPagoModerador": 0,
+                         "numFEVPagoModerador": null,
+                         "consecutivo": 1
+                     }
+                 ]
+             }
+        },
+        {
+             "tipoDocumentoIdentificacion":"CC",
+             "numDocumentoIdentificacion": "1030624298",
+             "tipoUsuario": "12",
+             "fechaNacimiento": "1993-04-26",
+             "codSexo": "F",
+             "codPaisResidencia": "170",
+             "codMunicipioResidencia": "11001",
+             "codZonaTerritorialResidencia": "01",
+             "incapacidad": "NO",
+             "consecutivo":21,
+             "codPaisOrigen":"170",
+             "servicios": {
+                 "consultas": [
+                     {
+                         "codPrestador": "110012726601",
+                         "fechaInicioAtencion": "2026-01-14 09:04",
+                         "numAutorizacion": "",
+                         "codConsulta": "890262",
+                         "modalidadGrupoServicioTecSal": "01",
+                         "grupoServicios": "01",
+                         "codServicio": 423,
+                         "finalidadTecnologiaSalud": "13",
+                         "causaMotivoAtencion": "40",
+                         "codDiagnosticoPrincipal": "Z100",
+                         "codDiagnosticoRelacionado1": null,
+                         "codDiagnosticoRelacionado2": null,
+                         "codDiagnosticoRelacionado3": null,
+                         "tipoDiagnosticoPrincipal": "01",
+                         "tipoDocumentoIdentificacion": "CC",
+                         "numDocumentoIdentificacion": "11189178",
+                         "vrServicio": 34000,
+                         "conceptoRecaudo": "05",
+                         "valorPagoModerador": 0,
+                         "numFEVPagoModerador": null,
+                         "consecutivo": 1
+                     }
+                 ]
+             }
+        },
+        {
+             "tipoDocumentoIdentificacion":"CC",
+             "numDocumentoIdentificacion": "1030637782",
+             "tipoUsuario": "12",
+             "fechaNacimiento": "1994-03-10",
+             "codSexo": "M",
+             "codPaisResidencia": "170",
+             "codMunicipioResidencia": "11001",
+             "codZonaTerritorialResidencia": "01",
+             "incapacidad": "NO",
+             "consecutivo":22,
+             "codPaisOrigen":"170",
+             "servicios": {
+                 "consultas": [
+                     {
+                         "codPrestador": "110012726601",
+                         "fechaInicioAtencion": "2026-01-13 11:11",
+                         "numAutorizacion": "",
+                         "codConsulta": "890262",
+                         "modalidadGrupoServicioTecSal": "01",
+                         "grupoServicios": "01",
+                         "codServicio": 423,
+                         "finalidadTecnologiaSalud": "13",
+                         "causaMotivoAtencion": "40",
+                         "codDiagnosticoPrincipal": "Z100",
+                         "codDiagnosticoRelacionado1": null,
+                         "codDiagnosticoRelacionado2": null,
+                         "codDiagnosticoRelacionado3": null,
+                         "tipoDiagnosticoPrincipal": "01",
+                         "tipoDocumentoIdentificacion": "CC",
+                         "numDocumentoIdentificacion": "11189178",
+                         "vrServicio": 34000,
+                         "conceptoRecaudo": "05",
+                         "valorPagoModerador": 0,
+                         "numFEVPagoModerador": null,
+                         "consecutivo": 1
+                     }
+                 ]
+             }
+        },
+        {
+             "tipoDocumentoIdentificacion":"CC",
+             "numDocumentoIdentificacion": "1030690260",
+             "tipoUsuario": "12",
+             "fechaNacimiento": "1998-08-27",
+             "codSexo": "F",
+             "codPaisResidencia": "170",
+             "codMunicipioResidencia": "11001",
+             "codZonaTerritorialResidencia": "01",
+             "incapacidad": "NO",
+             "consecutivo":23,
+             "codPaisOrigen":"170",
+             "servicios": {
+                 "consultas": [
+                     {
+                         "codPrestador": "110012726601",
+                         "fechaInicioAtencion": "2026-01-14 08:28",
+                         "numAutorizacion": "",
+                         "codConsulta": "890262",
+                         "modalidadGrupoServicioTecSal": "01",
+                         "grupoServicios": "01",
+                         "codServicio": 423,
+                         "finalidadTecnologiaSalud": "13",
+                         "causaMotivoAtencion": "40",
+                         "codDiagnosticoPrincipal": "Z100",
+                         "codDiagnosticoRelacionado1": null,
+                         "codDiagnosticoRelacionado2": null,
+                         "codDiagnosticoRelacionado3": null,
+                         "tipoDiagnosticoPrincipal": "01",
+                         "tipoDocumentoIdentificacion": "CC",
+                         "numDocumentoIdentificacion": "11189178",
+                         "vrServicio": 34000,
+                         "conceptoRecaudo": "05",
+                         "valorPagoModerador": 0,
+                         "numFEVPagoModerador": null,
+                         "consecutivo": 1
+                     }
+                 ]
+             }
+        },
+        {
+             "tipoDocumentoIdentificacion":"CC",
+             "numDocumentoIdentificacion": "1030701721",
+             "tipoUsuario": "12",
+             "fechaNacimiento": "1999-12-02",
+             "codSexo": "F",
+             "codPaisResidencia": "170",
+             "codMunicipioResidencia": "11001",
+             "codZonaTerritorialResidencia": "01",
+             "incapacidad": "NO",
+             "consecutivo":24,
+             "codPaisOrigen":"170",
+             "servicios": {
+                 "consultas": [
+                     {
+                         "codPrestador": "110012726601",
+                         "fechaInicioAtencion": "2026-01-14 09:57",
+                         "numAutorizacion": "",
+                         "codConsulta": "890262",
+                         "modalidadGrupoServicioTecSal": "01",
+                         "grupoServicios": "01",
+                         "codServicio": 423,
+                         "finalidadTecnologiaSalud": "13",
+                         "causaMotivoAtencion": "40",
+                         "codDiagnosticoPrincipal": "Z100",
+                         "codDiagnosticoRelacionado1": null,
+                         "codDiagnosticoRelacionado2": null,
+                         "codDiagnosticoRelacionado3": null,
+                         "tipoDiagnosticoPrincipal": "01",
+                         "tipoDocumentoIdentificacion": "CC",
+                         "numDocumentoIdentificacion": "11189178",
+                         "vrServicio": 34000,
+                         "conceptoRecaudo": "05",
+                         "valorPagoModerador": 0,
+                         "numFEVPagoModerador": null,
+                         "consecutivo": 1
+                     }
+                 ]
+             }
+        },
+        {
+             "tipoDocumentoIdentificacion":"CC",
+             "numDocumentoIdentificacion": "1032486658",
+             "tipoUsuario": "12",
+             "fechaNacimiento": "1996-11-01",
+             "codSexo": "M",
+             "codPaisResidencia": "170",
+             "codMunicipioResidencia": "11001",
+             "codZonaTerritorialResidencia": "01",
+             "incapacidad": "NO",
+             "consecutivo":25,
+             "codPaisOrigen":"170",
+             "servicios": {
+                 "consultas": [
+                     {
+                         "codPrestador": "110012726601",
+                         "fechaInicioAtencion": "2026-01-13 10:31",
+                         "numAutorizacion": "",
+                         "codConsulta": "890262",
+                         "modalidadGrupoServicioTecSal": "01",
+                         "grupoServicios": "01",
+                         "codServicio": 423,
+                         "finalidadTecnologiaSalud": "13",
+                         "causaMotivoAtencion": "40",
+                         "codDiagnosticoPrincipal": "Z100",
+                         "codDiagnosticoRelacionado1": null,
+                         "codDiagnosticoRelacionado2": null,
+                         "codDiagnosticoRelacionado3": null,
+                         "tipoDiagnosticoPrincipal": "01",
+                         "tipoDocumentoIdentificacion": "CC",
+                         "numDocumentoIdentificacion": "11189178",
+                         "vrServicio": 34000,
+                         "conceptoRecaudo": "05",
+                         "valorPagoModerador": 0,
+                         "numFEVPagoModerador": null,
+                         "consecutivo": 1
+                     }
+                 ]
+             }
+        },
+        {
+             "tipoDocumentoIdentificacion":"CC",
+             "numDocumentoIdentificacion": "1033756553",
+             "tipoUsuario": "12",
+             "fechaNacimiento": "1993-07-25",
+             "codSexo": "F",
+             "codPaisResidencia": "170",
+             "codMunicipioResidencia": "11001",
+             "codZonaTerritorialResidencia": "01",
+             "incapacidad": "NO",
+             "consecutivo":26,
+             "codPaisOrigen":"170",
+             "servicios": {
+                 "consultas": [
+                     {
+                         "codPrestador": "110012726601",
+                         "fechaInicioAtencion": "2026-01-14 12:04",
+                         "numAutorizacion": "",
+                         "codConsulta": "890262",
+                         "modalidadGrupoServicioTecSal": "01",
+                         "grupoServicios": "01",
+                         "codServicio": 423,
+                         "finalidadTecnologiaSalud": "13",
+                         "causaMotivoAtencion": "40",
+                         "codDiagnosticoPrincipal": "Z100",
+                         "codDiagnosticoRelacionado1": null,
+                         "codDiagnosticoRelacionado2": null,
+                         "codDiagnosticoRelacionado3": null,
+                         "tipoDiagnosticoPrincipal": "01",
+                         "tipoDocumentoIdentificacion": "CC",
+                         "numDocumentoIdentificacion": "11189178",
+                         "vrServicio": 34000,
+                         "conceptoRecaudo": "05",
+                         "valorPagoModerador": 0,
+                         "numFEVPagoModerador": null,
+                         "consecutivo": 1
+                     }
+                 ]
+             }
+        },
+        {
+             "tipoDocumentoIdentificacion":"CC",
+             "numDocumentoIdentificacion": "1033758923",
+             "tipoUsuario": "12",
+             "fechaNacimiento": "1963-09-06",
+             "codSexo": "F",
+             "codPaisResidencia": "170",
+             "codMunicipioResidencia": "11001",
+             "codZonaTerritorialResidencia": "01",
+             "incapacidad": "NO",
+             "consecutivo":27,
+             "codPaisOrigen":"170",
+             "servicios": {
+                 "consultas": [
+                     {
+                         "codPrestador": "110012726601",
+                         "fechaInicioAtencion": "2026-01-14 11:48",
+                         "numAutorizacion": "",
+                         "codConsulta": "890262",
+                         "modalidadGrupoServicioTecSal": "01",
+                         "grupoServicios": "01",
+                         "codServicio": 423,
+                         "finalidadTecnologiaSalud": "13",
+                         "causaMotivoAtencion": "40",
+                         "codDiagnosticoPrincipal": "Z100",
+                         "codDiagnosticoRelacionado1": null,
+                         "codDiagnosticoRelacionado2": null,
+                         "codDiagnosticoRelacionado3": null,
+                         "tipoDiagnosticoPrincipal": "01",
+                         "tipoDocumentoIdentificacion": "CC",
+                         "numDocumentoIdentificacion": "11189178",
+                         "vrServicio": 34000,
+                         "conceptoRecaudo": "05",
+                         "valorPagoModerador": 0,
+                         "numFEVPagoModerador": null,
+                         "consecutivo": 1
+                     }
+                 ]
+             }
+        },
+        {
+             "tipoDocumentoIdentificacion":"CC",
+             "numDocumentoIdentificacion": "1056908370",
+             "tipoUsuario": "12",
+             "fechaNacimiento": "1993-10-05",
+             "codSexo": "F",
+             "codPaisResidencia": "170",
+             "codMunicipioResidencia": "11001",
+             "codZonaTerritorialResidencia": "01",
+             "incapacidad": "NO",
+             "consecutivo":28,
+             "codPaisOrigen":"170",
+             "servicios": {
+                 "consultas": [
+                     {
+                         "codPrestador": "110012726601",
+                         "fechaInicioAtencion": "2026-01-13 15:24",
+                         "numAutorizacion": "",
+                         "codConsulta": "890262",
+                         "modalidadGrupoServicioTecSal": "01",
+                         "grupoServicios": "01",
+                         "codServicio": 423,
+                         "finalidadTecnologiaSalud": "13",
+                         "causaMotivoAtencion": "40",
+                         "codDiagnosticoPrincipal": "Z100",
+                         "codDiagnosticoRelacionado1": null,
+                         "codDiagnosticoRelacionado2": null,
+                         "codDiagnosticoRelacionado3": null,
+                         "tipoDiagnosticoPrincipal": "01",
+                         "tipoDocumentoIdentificacion": "CC",
+                         "numDocumentoIdentificacion": "11189178",
+                         "vrServicio": 34000,
+                         "conceptoRecaudo": "05",
+                         "valorPagoModerador": 0,
+                         "numFEVPagoModerador": null,
+                         "consecutivo": 1
+                     }
+                 ]
+             }
+        },
+        {
+             "tipoDocumentoIdentificacion":"CC",
+             "numDocumentoIdentificacion": "1069473652",
+             "tipoUsuario": "12",
+             "fechaNacimiento": "1988-04-17",
+             "codSexo": "F",
+             "codPaisResidencia": "170",
+             "codMunicipioResidencia": "11001",
+             "codZonaTerritorialResidencia": "01",
+             "incapacidad": "NO",
+             "consecutivo":29,
+             "codPaisOrigen":"170",
+             "servicios": {
+                 "consultas": [
+                     {
+                         "codPrestador": "110012726601",
+                         "fechaInicioAtencion": "2026-01-13 08:48",
+                         "numAutorizacion": "",
+                         "codConsulta": "890262",
+                         "modalidadGrupoServicioTecSal": "01",
+                         "grupoServicios": "01",
+                         "codServicio": 423,
+                         "finalidadTecnologiaSalud": "13",
+                         "causaMotivoAtencion": "40",
+                         "codDiagnosticoPrincipal": "Z100",
+                         "codDiagnosticoRelacionado1": null,
+                         "codDiagnosticoRelacionado2": null,
+                         "codDiagnosticoRelacionado3": null,
+                         "tipoDiagnosticoPrincipal": "01",
+                         "tipoDocumentoIdentificacion": "CC",
+                         "numDocumentoIdentificacion": "11189178",
+                         "vrServicio": 34000,
+                         "conceptoRecaudo": "05",
+                         "valorPagoModerador": 0,
+                         "numFEVPagoModerador": null,
+                         "consecutivo": 1
+                     }
+                 ]
+             }
+        },
+        {
+             "tipoDocumentoIdentificacion":"CC",
+             "numDocumentoIdentificacion": "1071331550",
+             "tipoUsuario": "12",
+             "fechaNacimiento": "1997-11-30",
+             "codSexo": "F",
+             "codPaisResidencia": "170",
+             "codMunicipioResidencia": "11001",
+             "codZonaTerritorialResidencia": "01",
+             "incapacidad": "NO",
+             "consecutivo":30,
+             "codPaisOrigen":"170",
+             "servicios": {
+                 "consultas": [
+                     {
+                         "codPrestador": "110012726601",
+                         "fechaInicioAtencion": "2026-01-13 09:21",
+                         "numAutorizacion": "",
+                         "codConsulta": "890262",
+                         "modalidadGrupoServicioTecSal": "01",
+                         "grupoServicios": "01",
+                         "codServicio": 423,
+                         "finalidadTecnologiaSalud": "13",
+                         "causaMotivoAtencion": "40",
+                         "codDiagnosticoPrincipal": "Z100",
+                         "codDiagnosticoRelacionado1": null,
+                         "codDiagnosticoRelacionado2": null,
+                         "codDiagnosticoRelacionado3": null,
+                         "tipoDiagnosticoPrincipal": "01",
+                         "tipoDocumentoIdentificacion": "CC",
+                         "numDocumentoIdentificacion": "11189178",
+                         "vrServicio": 34000,
+                         "conceptoRecaudo": "05",
+                         "valorPagoModerador": 0,
+                         "numFEVPagoModerador": null,
+                         "consecutivo": 1
+                     }
+                 ]
+             }
+        },
+        {
+             "tipoDocumentoIdentificacion":"CC",
+             "numDocumentoIdentificacion": "1233899559",
+             "tipoUsuario": "12",
+             "fechaNacimiento": "1998-06-21",
+             "codSexo": "F",
+             "codPaisResidencia": "170",
+             "codMunicipioResidencia": "11001",
+             "codZonaTerritorialResidencia": "01",
+             "incapacidad": "NO",
+             "consecutivo":31,
+             "codPaisOrigen":"170",
+             "servicios": {
+                 "consultas": [
+                     {
+                         "codPrestador": "110012726601",
+                         "fechaInicioAtencion": "2026-01-14 10:20",
+                         "numAutorizacion": "",
+                         "codConsulta": "890262",
+                         "modalidadGrupoServicioTecSal": "01",
+                         "grupoServicios": "01",
+                         "codServicio": 423,
+                         "finalidadTecnologiaSalud": "13",
+                         "causaMotivoAtencion": "40",
+                         "codDiagnosticoPrincipal": "Z100",
+                         "codDiagnosticoRelacionado1": null,
+                         "codDiagnosticoRelacionado2": null,
+                         "codDiagnosticoRelacionado3": null,
+                         "tipoDiagnosticoPrincipal": "01",
+                         "tipoDocumentoIdentificacion": "CC",
+                         "numDocumentoIdentificacion": "11189178",
+                         "vrServicio": 34000,
+                         "conceptoRecaudo": "05",
+                         "valorPagoModerador": 0,
+                         "numFEVPagoModerador": null,
+                         "consecutivo": 1
+                     }
+                 ]
+             }
+        },
+        {
+             "tipoDocumentoIdentificacion":"CC",
+             "numDocumentoIdentificacion": "39655588",
+             "tipoUsuario": "12",
+             "fechaNacimiento": "1971-04-27",
+             "codSexo": "F",
+             "codPaisResidencia": "170",
+             "codMunicipioResidencia": "11001",
+             "codZonaTerritorialResidencia": "01",
+             "incapacidad": "NO",
+             "consecutivo":32,
+             "codPaisOrigen":"170",
+             "servicios": {
+                 "consultas": [
+                     {
+                         "codPrestador": "110012726601",
+                         "fechaInicioAtencion": "2026-01-14 10:07",
+                         "numAutorizacion": "",
+                         "codConsulta": "890262",
+                         "modalidadGrupoServicioTecSal": "01",
+                         "grupoServicios": "01",
+                         "codServicio": 423,
+                         "finalidadTecnologiaSalud": "13",
+                         "causaMotivoAtencion": "40",
+                         "codDiagnosticoPrincipal": "Z100",
+                         "codDiagnosticoRelacionado1": null,
+                         "codDiagnosticoRelacionado2": null,
+                         "codDiagnosticoRelacionado3": null,
+                         "tipoDiagnosticoPrincipal": "01",
+                         "tipoDocumentoIdentificacion": "CC",
+                         "numDocumentoIdentificacion": "11189178",
+                         "vrServicio": 34000,
+                         "conceptoRecaudo": "05",
+                         "valorPagoModerador": 0,
+                         "numFEVPagoModerador": null,
+                         "consecutivo": 1
+                     }
+                 ]
+             }
+        },
+        {
+             "tipoDocumentoIdentificacion":"CC",
+             "numDocumentoIdentificacion": "39688703",
+             "tipoUsuario": "12",
+             "fechaNacimiento": "1963-12-27",
+             "codSexo": "F",
+             "codPaisResidencia": "170",
+             "codMunicipioResidencia": "11001",
+             "codZonaTerritorialResidencia": "01",
+             "incapacidad": "NO",
+             "consecutivo":33,
+             "codPaisOrigen":"170",
+             "servicios": {
+                 "consultas": [
+                     {
+                         "codPrestador": "110012726601",
+                         "fechaInicioAtencion": "2026-01-13 15:00",
+                         "numAutorizacion": "",
+                         "codConsulta": "890262",
+                         "modalidadGrupoServicioTecSal": "01",
+                         "grupoServicios": "01",
+                         "codServicio": 423,
+                         "finalidadTecnologiaSalud": "13",
+                         "causaMotivoAtencion": "40",
+                         "codDiagnosticoPrincipal": "Z100",
+                         "codDiagnosticoRelacionado1": null,
+                         "codDiagnosticoRelacionado2": null,
+                         "codDiagnosticoRelacionado3": null,
+                         "tipoDiagnosticoPrincipal": "01",
+                         "tipoDocumentoIdentificacion": "CC",
+                         "numDocumentoIdentificacion": "11189178",
+                         "vrServicio": 34000,
+                         "conceptoRecaudo": "05",
+                         "valorPagoModerador": 0,
+                         "numFEVPagoModerador": null,
+                         "consecutivo": 1
+                     }
+                 ]
+             }
+        },
+        {
+             "tipoDocumentoIdentificacion":"CC",
+             "numDocumentoIdentificacion": "39694428",
+             "tipoUsuario": "12",
+             "fechaNacimiento": "1965-05-18",
+             "codSexo": "F",
+             "codPaisResidencia": "170",
+             "codMunicipioResidencia": "11001",
+             "codZonaTerritorialResidencia": "01",
+             "incapacidad": "NO",
+             "consecutivo":34,
+             "codPaisOrigen":"170",
+             "servicios": {
+                 "consultas": [
+                     {
+                         "codPrestador": "110012726601",
+                         "fechaInicioAtencion": "2026-01-13 12:19",
+                         "numAutorizacion": "",
+                         "codConsulta": "890262",
+                         "modalidadGrupoServicioTecSal": "01",
+                         "grupoServicios": "01",
+                         "codServicio": 423,
+                         "finalidadTecnologiaSalud": "13",
+                         "causaMotivoAtencion": "40",
+                         "codDiagnosticoPrincipal": "Z100",
+                         "codDiagnosticoRelacionado1": null,
+                         "codDiagnosticoRelacionado2": null,
+                         "codDiagnosticoRelacionado3": null,
+                         "tipoDiagnosticoPrincipal": "01",
+                         "tipoDocumentoIdentificacion": "CC",
+                         "numDocumentoIdentificacion": "11189178",
+                         "vrServicio": 34000,
+                         "conceptoRecaudo": "05",
+                         "valorPagoModerador": 0,
+                         "numFEVPagoModerador": null,
+                         "consecutivo": 1
+                     }
+                 ]
+             }
+        },
+        {
+             "tipoDocumentoIdentificacion":"CC",
+             "numDocumentoIdentificacion": "40266565",
+             "tipoUsuario": "12",
+             "fechaNacimiento": "1982-05-07",
+             "codSexo": "F",
+             "codPaisResidencia": "170",
+             "codMunicipioResidencia": "11001",
+             "codZonaTerritorialResidencia": "01",
+             "incapacidad": "NO",
+             "consecutivo":35,
+             "codPaisOrigen":"170",
+             "servicios": {
+                 "consultas": [
+                     {
+                         "codPrestador": "110012726601",
+                         "fechaInicioAtencion": "2026-01-13 14:33",
+                         "numAutorizacion": "",
+                         "codConsulta": "890262",
+                         "modalidadGrupoServicioTecSal": "01",
+                         "grupoServicios": "01",
+                         "codServicio": 423,
+                         "finalidadTecnologiaSalud": "13",
+                         "causaMotivoAtencion": "40",
+                         "codDiagnosticoPrincipal": "Z100",
+                         "codDiagnosticoRelacionado1": null,
+                         "codDiagnosticoRelacionado2": null,
+                         "codDiagnosticoRelacionado3": null,
+                         "tipoDiagnosticoPrincipal": "01",
+                         "tipoDocumentoIdentificacion": "CC",
+                         "numDocumentoIdentificacion": "11189178",
+                         "vrServicio": 34000,
+                         "conceptoRecaudo": "05",
+                         "valorPagoModerador": 0,
+                         "numFEVPagoModerador": null,
+                         "consecutivo": 1
+                     }
+                 ]
+             }
+        },
+        {
+             "tipoDocumentoIdentificacion":"CC",
+             "numDocumentoIdentificacion": "46681816",
+             "tipoUsuario": "12",
+             "fechaNacimiento": "1979-05-07",
+             "codSexo": "F",
+             "codPaisResidencia": "170",
+             "codMunicipioResidencia": "11001",
+             "codZonaTerritorialResidencia": "01",
+             "incapacidad": "NO",
+             "consecutivo":36,
+             "codPaisOrigen":"170",
+             "servicios": {
+                 "consultas": [
+                     {
+                         "codPrestador": "110012726601",
+                         "fechaInicioAtencion": "2026-01-13 12:35",
+                         "numAutorizacion": "",
+                         "codConsulta": "890262",
+                         "modalidadGrupoServicioTecSal": "01",
+                         "grupoServicios": "01",
+                         "codServicio": 423,
+                         "finalidadTecnologiaSalud": "13",
+                         "causaMotivoAtencion": "40",
+                         "codDiagnosticoPrincipal": "Z100",
+                         "codDiagnosticoRelacionado1": null,
+                         "codDiagnosticoRelacionado2": null,
+                         "codDiagnosticoRelacionado3": null,
+                         "tipoDiagnosticoPrincipal": "01",
+                         "tipoDocumentoIdentificacion": "CC",
+                         "numDocumentoIdentificacion": "11189178",
+                         "vrServicio": 34000,
+                         "conceptoRecaudo": "05",
+                         "valorPagoModerador": 0,
+                         "numFEVPagoModerador": null,
+                         "consecutivo": 1
+                     }
+                 ]
+             }
+        },
+        {
+             "tipoDocumentoIdentificacion":"CC",
+             "numDocumentoIdentificacion": "5026581",
+             "tipoUsuario": "12",
+             "fechaNacimiento": "1990-01-03",
+             "codSexo": "F",
+             "codPaisResidencia": "170",
+             "codMunicipioResidencia": "11001",
+             "codZonaTerritorialResidencia": "01",
+             "incapacidad": "NO",
+             "consecutivo":37,
+             "codPaisOrigen":"862",
+             "servicios": {
+                 "consultas": [
+                     {
+                         "codPrestador": "110012726601",
+                         "fechaInicioAtencion": "2026-01-14 09:20",
+                         "numAutorizacion": "",
+                         "codConsulta": "890262",
+                         "modalidadGrupoServicioTecSal": "01",
+                         "grupoServicios": "01",
+                         "codServicio": 423,
+                         "finalidadTecnologiaSalud": "13",
+                         "causaMotivoAtencion": "40",
+                         "codDiagnosticoPrincipal": "Z100",
+                         "codDiagnosticoRelacionado1": null,
+                         "codDiagnosticoRelacionado2": null,
+                         "codDiagnosticoRelacionado3": null,
+                         "tipoDiagnosticoPrincipal": "01",
+                         "tipoDocumentoIdentificacion": "CC",
+                         "numDocumentoIdentificacion": "11189178",
+                         "vrServicio": 34000,
+                         "conceptoRecaudo": "05",
+                         "valorPagoModerador": 0,
+                         "numFEVPagoModerador": null,
+                         "consecutivo": 1
+                     }
+                 ]
+             }
+        },
+        {
+             "tipoDocumentoIdentificacion":"CC",
+             "numDocumentoIdentificacion": "51755499",
+             "tipoUsuario": "12",
+             "fechaNacimiento": "1964-10-17",
+             "codSexo": "F",
+             "codPaisResidencia": "170",
+             "codMunicipioResidencia": "11001",
+             "codZonaTerritorialResidencia": "01",
+             "incapacidad": "NO",
+             "consecutivo":38,
+             "codPaisOrigen":"170",
+             "servicios": {
+                 "consultas": [
+                     {
+                         "codPrestador": "110012726601",
+                         "fechaInicioAtencion": "2026-01-13 12:54",
+                         "numAutorizacion": "",
+                         "codConsulta": "890262",
+                         "modalidadGrupoServicioTecSal": "01",
+                         "grupoServicios": "01",
+                         "codServicio": 423,
+                         "finalidadTecnologiaSalud": "13",
+                         "causaMotivoAtencion": "40",
+                         "codDiagnosticoPrincipal": "Z100",
+                         "codDiagnosticoRelacionado1": null,
+                         "codDiagnosticoRelacionado2": null,
+                         "codDiagnosticoRelacionado3": null,
+                         "tipoDiagnosticoPrincipal": "01",
+                         "tipoDocumentoIdentificacion": "CC",
+                         "numDocumentoIdentificacion": "11189178",
+                         "vrServicio": 34000,
+                         "conceptoRecaudo": "05",
+                         "valorPagoModerador": 0,
+                         "numFEVPagoModerador": null,
+                         "consecutivo": 1
+                     }
+                 ]
+             }
+        },
+        {
+             "tipoDocumentoIdentificacion":"CC",
+             "numDocumentoIdentificacion": "51900597",
+             "tipoUsuario": "12",
+             "fechaNacimiento": "1968-07-10",
+             "codSexo": "F",
+             "codPaisResidencia": "170",
+             "codMunicipioResidencia": "11001",
+             "codZonaTerritorialResidencia": "01",
+             "incapacidad": "NO",
+             "consecutivo":39,
+             "codPaisOrigen":"170",
+             "servicios": {
+                 "consultas": [
+                     {
+                         "codPrestador": "110012726601",
+                         "fechaInicioAtencion": "2026-01-13 15:38",
+                         "numAutorizacion": "",
+                         "codConsulta": "890262",
+                         "modalidadGrupoServicioTecSal": "01",
+                         "grupoServicios": "01",
+                         "codServicio": 423,
+                         "finalidadTecnologiaSalud": "13",
+                         "causaMotivoAtencion": "40",
+                         "codDiagnosticoPrincipal": "Z100",
+                         "codDiagnosticoRelacionado1": null,
+                         "codDiagnosticoRelacionado2": null,
+                         "codDiagnosticoRelacionado3": null,
+                         "tipoDiagnosticoPrincipal": "01",
+                         "tipoDocumentoIdentificacion": "CC",
+                         "numDocumentoIdentificacion": "11189178",
+                         "vrServicio": 34000,
+                         "conceptoRecaudo": "05",
+                         "valorPagoModerador": 0,
+                         "numFEVPagoModerador": null,
+                         "consecutivo": 1
+                     }
+                 ]
+             }
+        },
+        {
+             "tipoDocumentoIdentificacion":"CC",
+             "numDocumentoIdentificacion": "51993287",
+             "tipoUsuario": "12",
+             "fechaNacimiento": "1969-11-03",
+             "codSexo": "F",
+             "codPaisResidencia": "170",
+             "codMunicipioResidencia": "11001",
+             "codZonaTerritorialResidencia": "01",
+             "incapacidad": "NO",
+             "consecutivo":40,
+             "codPaisOrigen":"170",
+             "servicios": {
+                 "consultas": [
+                     {
+                         "codPrestador": "110012726601",
+                         "fechaInicioAtencion": "2026-01-13 16:07",
+                         "numAutorizacion": "",
+                         "codConsulta": "890262",
+                         "modalidadGrupoServicioTecSal": "01",
+                         "grupoServicios": "01",
+                         "codServicio": 423,
+                         "finalidadTecnologiaSalud": "13",
+                         "causaMotivoAtencion": "40",
+                         "codDiagnosticoPrincipal": "Z100",
+                         "codDiagnosticoRelacionado1": null,
+                         "codDiagnosticoRelacionado2": null,
+                         "codDiagnosticoRelacionado3": null,
+                         "tipoDiagnosticoPrincipal": "01",
+                         "tipoDocumentoIdentificacion": "CC",
+                         "numDocumentoIdentificacion": "11189178",
+                         "vrServicio": 34000,
+                         "conceptoRecaudo": "05",
+                         "valorPagoModerador": 0,
+                         "numFEVPagoModerador": null,
+                         "consecutivo": 1
+                     }
+                 ]
+             }
+        },
+        {
+             "tipoDocumentoIdentificacion":"CC",
+             "numDocumentoIdentificacion": "52123498",
+             "tipoUsuario": "12",
+             "fechaNacimiento": "1973-07-24",
+             "codSexo": "F",
+             "codPaisResidencia": "170",
+             "codMunicipioResidencia": "11001",
+             "codZonaTerritorialResidencia": "01",
+             "incapacidad": "NO",
+             "consecutivo":41,
+             "codPaisOrigen":"170",
+             "servicios": {
+                 "consultas": [
+                     {
+                         "codPrestador": "110012726601",
+                         "fechaInicioAtencion": "2026-01-13 14:06",
+                         "numAutorizacion": "",
+                         "codConsulta": "890262",
+                         "modalidadGrupoServicioTecSal": "01",
+                         "grupoServicios": "01",
+                         "codServicio": 423,
+                         "finalidadTecnologiaSalud": "13",
+                         "causaMotivoAtencion": "40",
+                         "codDiagnosticoPrincipal": "Z100",
+                         "codDiagnosticoRelacionado1": null,
+                         "codDiagnosticoRelacionado2": null,
+                         "codDiagnosticoRelacionado3": null,
+                         "tipoDiagnosticoPrincipal": "01",
+                         "tipoDocumentoIdentificacion": "CC",
+                         "numDocumentoIdentificacion": "11189178",
+                         "vrServicio": 34000,
+                         "conceptoRecaudo": "05",
+                         "valorPagoModerador": 0,
+                         "numFEVPagoModerador": null,
+                         "consecutivo": 1
+                     }
+                 ]
+             }
+        },
+        {
+             "tipoDocumentoIdentificacion":"CC",
+             "numDocumentoIdentificacion": "52179532",
+             "tipoUsuario": "12",
+             "fechaNacimiento": "1974-05-25",
+             "codSexo": "F",
+             "codPaisResidencia": "170",
+             "codMunicipioResidencia": "11001",
+             "codZonaTerritorialResidencia": "01",
+             "incapacidad": "NO",
+             "consecutivo":42,
+             "codPaisOrigen":"170",
+             "servicios": {
+                 "consultas": [
+                     {
+                         "codPrestador": "110012726601",
+                         "fechaInicioAtencion": "2026-01-13 12:00",
+                         "numAutorizacion": "",
+                         "codConsulta": "890262",
+                         "modalidadGrupoServicioTecSal": "01",
+                         "grupoServicios": "01",
+                         "codServicio": 423,
+                         "finalidadTecnologiaSalud": "13",
+                         "causaMotivoAtencion": "40",
+                         "codDiagnosticoPrincipal": "Z100",
+                         "codDiagnosticoRelacionado1": null,
+                         "codDiagnosticoRelacionado2": null,
+                         "codDiagnosticoRelacionado3": null,
+                         "tipoDiagnosticoPrincipal": "01",
+                         "tipoDocumentoIdentificacion": "CC",
+                         "numDocumentoIdentificacion": "11189178",
+                         "vrServicio": 34000,
+                         "conceptoRecaudo": "05",
+                         "valorPagoModerador": 0,
+                         "numFEVPagoModerador": null,
+                         "consecutivo": 1
+                     }
+                 ]
+             }
+        },
+        {
+             "tipoDocumentoIdentificacion":"CC",
+             "numDocumentoIdentificacion": "52199632",
+             "tipoUsuario": "12",
+             "fechaNacimiento": "1979-07-24",
+             "codSexo": "F",
+             "codPaisResidencia": "170",
+             "codMunicipioResidencia": "11001",
+             "codZonaTerritorialResidencia": "01",
+             "incapacidad": "NO",
+             "consecutivo":43,
+             "codPaisOrigen":"170",
+             "servicios": {
+                 "consultas": [
+                     {
+                         "codPrestador": "110012726601",
+                         "fechaInicioAtencion": "2026-01-14 11:07",
+                         "numAutorizacion": "",
+                         "codConsulta": "890262",
+                         "modalidadGrupoServicioTecSal": "01",
+                         "grupoServicios": "01",
+                         "codServicio": 423,
+                         "finalidadTecnologiaSalud": "13",
+                         "causaMotivoAtencion": "40",
+                         "codDiagnosticoPrincipal": "Z100",
+                         "codDiagnosticoRelacionado1": null,
+                         "codDiagnosticoRelacionado2": null,
+                         "codDiagnosticoRelacionado3": null,
+                         "tipoDiagnosticoPrincipal": "01",
+                         "tipoDocumentoIdentificacion": "CC",
+                         "numDocumentoIdentificacion": "11189178",
+                         "vrServicio": 34000,
+                         "conceptoRecaudo": "05",
+                         "valorPagoModerador": 0,
+                         "numFEVPagoModerador": null,
+                         "consecutivo": 1
+                     }
+                 ]
+             }
+        },
+        {
+             "tipoDocumentoIdentificacion":"CC",
+             "numDocumentoIdentificacion": "52240359",
+             "tipoUsuario": "12",
+             "fechaNacimiento": "1974-03-17",
+             "codSexo": "F",
+             "codPaisResidencia": "170",
+             "codMunicipioResidencia": "11001",
+             "codZonaTerritorialResidencia": "01",
+             "incapacidad": "NO",
+             "consecutivo":44,
+             "codPaisOrigen":"170",
+             "servicios": {
+                 "consultas": [
+                     {
+                         "codPrestador": "110012726601",
+                         "fechaInicioAtencion": "2026-01-13 07:49",
+                         "numAutorizacion": "",
+                         "codConsulta": "890262",
+                         "modalidadGrupoServicioTecSal": "01",
+                         "grupoServicios": "01",
+                         "codServicio": 423,
+                         "finalidadTecnologiaSalud": "13",
+                         "causaMotivoAtencion": "40",
+                         "codDiagnosticoPrincipal": "Z100",
+                         "codDiagnosticoRelacionado1": null,
+                         "codDiagnosticoRelacionado2": null,
+                         "codDiagnosticoRelacionado3": null,
+                         "tipoDiagnosticoPrincipal": "01",
+                         "tipoDocumentoIdentificacion": "CC",
+                         "numDocumentoIdentificacion": "11189178",
+                         "vrServicio": 34000,
+                         "conceptoRecaudo": "05",
+                         "valorPagoModerador": 0,
+                         "numFEVPagoModerador": null,
+                         "consecutivo": 1
+                     }
+                 ]
+             }
+        },
+        {
+             "tipoDocumentoIdentificacion":"CC",
+             "numDocumentoIdentificacion": "52328741",
+             "tipoUsuario": "12",
+             "fechaNacimiento": "1974-10-14",
+             "codSexo": "F",
+             "codPaisResidencia": "170",
+             "codMunicipioResidencia": "11001",
+             "codZonaTerritorialResidencia": "01",
+             "incapacidad": "NO",
+             "consecutivo":45,
+             "codPaisOrigen":"170",
+             "servicios": {
+                 "consultas": [
+                     {
+                         "codPrestador": "110012726601",
+                         "fechaInicioAtencion": "2026-01-15 08:34",
+                         "numAutorizacion": "",
+                         "codConsulta": "890262",
+                         "modalidadGrupoServicioTecSal": "01",
+                         "grupoServicios": "01",
+                         "codServicio": 423,
+                         "finalidadTecnologiaSalud": "13",
+                         "causaMotivoAtencion": "40",
+                         "codDiagnosticoPrincipal": "Z100",
+                         "codDiagnosticoRelacionado1": null,
+                         "codDiagnosticoRelacionado2": null,
+                         "codDiagnosticoRelacionado3": null,
+                         "tipoDiagnosticoPrincipal": "01",
+                         "tipoDocumentoIdentificacion": "CC",
+                         "numDocumentoIdentificacion": "11189178",
+                         "vrServicio": 34000,
+                         "conceptoRecaudo": "05",
+                         "valorPagoModerador": 0,
+                         "numFEVPagoModerador": null,
+                         "consecutivo": 1
+                     }
+                 ]
+             }
+        },
+        {
+             "tipoDocumentoIdentificacion":"CC",
+             "numDocumentoIdentificacion": "52343815",
+             "tipoUsuario": "12",
+             "fechaNacimiento": "1976-03-14",
+             "codSexo": "M",
+             "codPaisResidencia": "170",
+             "codMunicipioResidencia": "11001",
+             "codZonaTerritorialResidencia": "01",
+             "incapacidad": "NO",
+             "consecutivo":46,
+             "codPaisOrigen":"170",
+             "servicios": {
+                 "consultas": [
+                     {
+                         "codPrestador": "110012726601",
+                         "fechaInicioAtencion": "2026-01-15 08:50",
+                         "numAutorizacion": "",
+                         "codConsulta": "890262",
+                         "modalidadGrupoServicioTecSal": "01",
+                         "grupoServicios": "01",
+                         "codServicio": 423,
+                         "finalidadTecnologiaSalud": "13",
+                         "causaMotivoAtencion": "40",
+                         "codDiagnosticoPrincipal": "Z100",
+                         "codDiagnosticoRelacionado1": null,
+                         "codDiagnosticoRelacionado2": null,
+                         "codDiagnosticoRelacionado3": null,
+                         "tipoDiagnosticoPrincipal": "01",
+                         "tipoDocumentoIdentificacion": "CC",
+                         "numDocumentoIdentificacion": "11189178",
+                         "vrServicio": 34000,
+                         "conceptoRecaudo": "05",
+                         "valorPagoModerador": 0,
+                         "numFEVPagoModerador": null,
+                         "consecutivo": 1
+                     }
+                 ]
+             }
+        },
+        {
+             "tipoDocumentoIdentificacion":"CC",
+             "numDocumentoIdentificacion": "52380830",
+             "tipoUsuario": "12",
+             "fechaNacimiento": "1977-10-10",
+             "codSexo": "F",
+             "codPaisResidencia": "170",
+             "codMunicipioResidencia": "11001",
+             "codZonaTerritorialResidencia": "01",
+             "incapacidad": "NO",
+             "consecutivo":47,
+             "codPaisOrigen":"170",
+             "servicios": {
+                 "consultas": [
+                     {
+                         "codPrestador": "110012726601",
+                         "fechaInicioAtencion": "2026-01-15 09:29",
+                         "numAutorizacion": "",
+                         "codConsulta": "890262",
+                         "modalidadGrupoServicioTecSal": "01",
+                         "grupoServicios": "01",
+                         "codServicio": 423,
+                         "finalidadTecnologiaSalud": "13",
+                         "causaMotivoAtencion": "40",
+                         "codDiagnosticoPrincipal": "Z100",
+                         "codDiagnosticoRelacionado1": null,
+                         "codDiagnosticoRelacionado2": null,
+                         "codDiagnosticoRelacionado3": null,
+                         "tipoDiagnosticoPrincipal": "01",
+                         "tipoDocumentoIdentificacion": "CC",
+                         "numDocumentoIdentificacion": "11189178",
+                         "vrServicio": 34000,
+                         "conceptoRecaudo": "05",
+                         "valorPagoModerador": 0,
+                         "numFEVPagoModerador": null,
+                         "consecutivo": 1
+                     }
+                 ]
+             }
+        },
+        {
+             "tipoDocumentoIdentificacion":"CC",
+             "numDocumentoIdentificacion": "52388996",
+             "tipoUsuario": "12",
+             "fechaNacimiento": "1978-03-21",
+             "codSexo": "F",
+             "codPaisResidencia": "170",
+             "codMunicipioResidencia": "11001",
+             "codZonaTerritorialResidencia": "01",
+             "incapacidad": "NO",
+             "consecutivo":48,
+             "codPaisOrigen":"170",
+             "servicios": {
+                 "consultas": [
+                     {
+                         "codPrestador": "110012726601",
+                         "fechaInicioAtencion": "2026-01-14 09:43",
+                         "numAutorizacion": "",
+                         "codConsulta": "890262",
+                         "modalidadGrupoServicioTecSal": "01",
+                         "grupoServicios": "01",
+                         "codServicio": 423,
+                         "finalidadTecnologiaSalud": "13",
+                         "causaMotivoAtencion": "40",
+                         "codDiagnosticoPrincipal": "Z100",
+                         "codDiagnosticoRelacionado1": null,
+                         "codDiagnosticoRelacionado2": null,
+                         "codDiagnosticoRelacionado3": null,
+                         "tipoDiagnosticoPrincipal": "01",
+                         "tipoDocumentoIdentificacion": "CC",
+                         "numDocumentoIdentificacion": "11189178",
+                         "vrServicio": 34000,
+                         "conceptoRecaudo": "05",
+                         "valorPagoModerador": 0,
+                         "numFEVPagoModerador": null,
+                         "consecutivo": 1
+                     }
+                 ]
+             }
+        },
+        {
+             "tipoDocumentoIdentificacion":"CC",
+             "numDocumentoIdentificacion": "52457834",
+             "tipoUsuario": "12",
+             "fechaNacimiento": "1979-05-02",
+             "codSexo": "F",
+             "codPaisResidencia": "170",
+             "codMunicipioResidencia": "11001",
+             "codZonaTerritorialResidencia": "01",
+             "incapacidad": "NO",
+             "consecutivo":49,
+             "codPaisOrigen":"170",
+             "servicios": {
+                 "consultas": [
+                     {
+                         "codPrestador": "110012726601",
+                         "fechaInicioAtencion": "2026-01-15 09:15",
+                         "numAutorizacion": "",
+                         "codConsulta": "890262",
+                         "modalidadGrupoServicioTecSal": "01",
+                         "grupoServicios": "01",
+                         "codServicio": 423,
+                         "finalidadTecnologiaSalud": "13",
+                         "causaMotivoAtencion": "40",
+                         "codDiagnosticoPrincipal": "Z100",
+                         "codDiagnosticoRelacionado1": null,
+                         "codDiagnosticoRelacionado2": null,
+                         "codDiagnosticoRelacionado3": null,
+                         "tipoDiagnosticoPrincipal": "01",
+                         "tipoDocumentoIdentificacion": "CC",
+                         "numDocumentoIdentificacion": "11189178",
+                         "vrServicio": 34000,
+                         "conceptoRecaudo": "05",
+                         "valorPagoModerador": 0,
+                         "numFEVPagoModerador": null,
+                         "consecutivo": 1
+                     }
+                 ]
+             }
+        },
+        {
+             "tipoDocumentoIdentificacion":"CC",
+             "numDocumentoIdentificacion": "52693907",
+             "tipoUsuario": "12",
+             "fechaNacimiento": "1979-09-21",
+             "codSexo": "F",
+             "codPaisResidencia": "170",
+             "codMunicipioResidencia": "11001",
+             "codZonaTerritorialResidencia": "01",
+             "incapacidad": "NO",
+             "consecutivo":50,
+             "codPaisOrigen":"170",
+             "servicios": {
+                 "consultas": [
+                     {
+                         "codPrestador": "110012726601",
+                         "fechaInicioAtencion": "2026-01-15 09:06",
+                         "numAutorizacion": "",
+                         "codConsulta": "890262",
+                         "modalidadGrupoServicioTecSal": "01",
+                         "grupoServicios": "01",
+                         "codServicio": 423,
+                         "finalidadTecnologiaSalud": "13",
+                         "causaMotivoAtencion": "40",
+                         "codDiagnosticoPrincipal": "Z100",
+                         "codDiagnosticoRelacionado1": null,
+                         "codDiagnosticoRelacionado2": null,
+                         "codDiagnosticoRelacionado3": null,
+                         "tipoDiagnosticoPrincipal": "01",
+                         "tipoDocumentoIdentificacion": "CC",
+                         "numDocumentoIdentificacion": "11189178",
+                         "vrServicio": 34000,
+                         "conceptoRecaudo": "05",
+                         "valorPagoModerador": 0,
+                         "numFEVPagoModerador": null,
+                         "consecutivo": 1
+                     }
+                 ]
+             }
+        },
+        {
+             "tipoDocumentoIdentificacion":"CC",
+             "numDocumentoIdentificacion": "52699029",
+             "tipoUsuario": "12",
+             "fechaNacimiento": "1980-01-19",
+             "codSexo": "F",
+             "codPaisResidencia": "170",
+             "codMunicipioResidencia": "11001",
+             "codZonaTerritorialResidencia": "01",
+             "incapacidad": "NO",
+             "consecutivo":51,
+             "codPaisOrigen":"170",
+             "servicios": {
+                 "consultas": [
+                     {
+                         "codPrestador": "110012726601",
+                         "fechaInicioAtencion": "2026-01-13 10:01",
+                         "numAutorizacion": "",
+                         "codConsulta": "890262",
+                         "modalidadGrupoServicioTecSal": "01",
+                         "grupoServicios": "01",
+                         "codServicio": 423,
+                         "finalidadTecnologiaSalud": "13",
+                         "causaMotivoAtencion": "40",
+                         "codDiagnosticoPrincipal": "Z100",
+                         "codDiagnosticoRelacionado1": null,
+                         "codDiagnosticoRelacionado2": null,
+                         "codDiagnosticoRelacionado3": null,
+                         "tipoDiagnosticoPrincipal": "01",
+                         "tipoDocumentoIdentificacion": "CC",
+                         "numDocumentoIdentificacion": "11189178",
+                         "vrServicio": 34000,
+                         "conceptoRecaudo": "05",
+                         "valorPagoModerador": 0,
+                         "numFEVPagoModerador": null,
+                         "consecutivo": 1
+                     }
+                 ]
+             }
+        },
+        {
+             "tipoDocumentoIdentificacion":"CC",
+             "numDocumentoIdentificacion": "52776735",
+             "tipoUsuario": "12",
+             "fechaNacimiento": "1981-07-26",
+             "codSexo": "F",
+             "codPaisResidencia": "170",
+             "codMunicipioResidencia": "11001",
+             "codZonaTerritorialResidencia": "01",
+             "incapacidad": "NO",
+             "consecutivo":52,
+             "codPaisOrigen":"170",
+             "servicios": {
+                 "consultas": [
+                     {
+                         "codPrestador": "110012726601",
+                         "fechaInicioAtencion": "2026-01-14 11:17",
+                         "numAutorizacion": "",
+                         "codConsulta": "890262",
+                         "modalidadGrupoServicioTecSal": "01",
+                         "grupoServicios": "01",
+                         "codServicio": 423,
+                         "finalidadTecnologiaSalud": "13",
+                         "causaMotivoAtencion": "40",
+                         "codDiagnosticoPrincipal": "Z100",
+                         "codDiagnosticoRelacionado1": null,
+                         "codDiagnosticoRelacionado2": null,
+                         "codDiagnosticoRelacionado3": null,
+                         "tipoDiagnosticoPrincipal": "01",
+                         "tipoDocumentoIdentificacion": "CC",
+                         "numDocumentoIdentificacion": "11189178",
+                         "vrServicio": 34000,
+                         "conceptoRecaudo": "05",
+                         "valorPagoModerador": 0,
+                         "numFEVPagoModerador": null,
+                         "consecutivo": 1
+                     }
+                 ]
+             }
+        },
+        {
+             "tipoDocumentoIdentificacion":"CC",
+             "numDocumentoIdentificacion": "52786277",
+             "tipoUsuario": "12",
+             "fechaNacimiento": "1979-08-20",
+             "codSexo": "F",
+             "codPaisResidencia": "170",
+             "codMunicipioResidencia": "25175",
+             "codZonaTerritorialResidencia": "01",
+             "incapacidad": "NO",
+             "consecutivo":53,
+             "codPaisOrigen":"170",
+             "servicios": {
+                 "consultas": [
+                     {
+                         "codPrestador": "110012726601",
+                         "fechaInicioAtencion": "2026-01-13 10:16",
+                         "numAutorizacion": "",
+                         "codConsulta": "890262",
+                         "modalidadGrupoServicioTecSal": "01",
+                         "grupoServicios": "01",
+                         "codServicio": 423,
+                         "finalidadTecnologiaSalud": "13",
+                         "causaMotivoAtencion": "40",
+                         "codDiagnosticoPrincipal": "Z100",
+                         "codDiagnosticoRelacionado1": null,
+                         "codDiagnosticoRelacionado2": null,
+                         "codDiagnosticoRelacionado3": null,
+                         "tipoDiagnosticoPrincipal": "01",
+                         "tipoDocumentoIdentificacion": "CC",
+                         "numDocumentoIdentificacion": "11189178",
+                         "vrServicio": 34000,
+                         "conceptoRecaudo": "05",
+                         "valorPagoModerador": 0,
+                         "numFEVPagoModerador": null,
+                         "consecutivo": 1
+                     }
+                 ]
+             }
+        },
+        {
+             "tipoDocumentoIdentificacion":"CC",
+             "numDocumentoIdentificacion": "52809984",
+             "tipoUsuario": "12",
+             "fechaNacimiento": "1981-08-04",
+             "codSexo": "F",
+             "codPaisResidencia": "170",
+             "codMunicipioResidencia": "11001",
+             "codZonaTerritorialResidencia": "01",
+             "incapacidad": "NO",
+             "consecutivo":54,
+             "codPaisOrigen":"170",
+             "servicios": {
+                 "consultas": [
+                     {
+                         "codPrestador": "110012726601",
+                         "fechaInicioAtencion": "2026-01-13 08:06",
+                         "numAutorizacion": "",
+                         "codConsulta": "890262",
+                         "modalidadGrupoServicioTecSal": "01",
+                         "grupoServicios": "01",
+                         "codServicio": 423,
+                         "finalidadTecnologiaSalud": "13",
+                         "causaMotivoAtencion": "40",
+                         "codDiagnosticoPrincipal": "Z100",
+                         "codDiagnosticoRelacionado1": null,
+                         "codDiagnosticoRelacionado2": null,
+                         "codDiagnosticoRelacionado3": null,
+                         "tipoDiagnosticoPrincipal": "01",
+                         "tipoDocumentoIdentificacion": "CC",
+                         "numDocumentoIdentificacion": "11189178",
+                         "vrServicio": 34000,
+                         "conceptoRecaudo": "05",
+                         "valorPagoModerador": 0,
+                         "numFEVPagoModerador": null,
+                         "consecutivo": 1
+                     }
+                 ]
+             }
+        },
+        {
+             "tipoDocumentoIdentificacion":"CC",
+             "numDocumentoIdentificacion": "52827740",
+             "tipoUsuario": "12",
+             "fechaNacimiento": "1980-06-16",
+             "codSexo": "F",
+             "codPaisResidencia": "170",
+             "codMunicipioResidencia": "11001",
+             "codZonaTerritorialResidencia": "01",
+             "incapacidad": "NO",
+             "consecutivo":55,
+             "codPaisOrigen":"170",
+             "servicios": {
+                 "consultas": [
+                     {
+                         "codPrestador": "110012726601",
+                         "fechaInicioAtencion": "2026-01-14 11:38",
+                         "numAutorizacion": "",
+                         "codConsulta": "890262",
+                         "modalidadGrupoServicioTecSal": "01",
+                         "grupoServicios": "01",
+                         "codServicio": 423,
+                         "finalidadTecnologiaSalud": "13",
+                         "causaMotivoAtencion": "40",
+                         "codDiagnosticoPrincipal": "Z100",
+                         "codDiagnosticoRelacionado1": null,
+                         "codDiagnosticoRelacionado2": null,
+                         "codDiagnosticoRelacionado3": null,
+                         "tipoDiagnosticoPrincipal": "01",
+                         "tipoDocumentoIdentificacion": "CC",
+                         "numDocumentoIdentificacion": "11189178",
+                         "vrServicio": 34000,
+                         "conceptoRecaudo": "05",
+                         "valorPagoModerador": 0,
+                         "numFEVPagoModerador": null,
+                         "consecutivo": 1
+                     }
+                 ]
+             }
+        },
+        {
+             "tipoDocumentoIdentificacion":"CC",
+             "numDocumentoIdentificacion": "53060848",
+             "tipoUsuario": "12",
+             "fechaNacimiento": "1983-12-02",
+             "codSexo": "F",
+             "codPaisResidencia": "170",
+             "codMunicipioResidencia": "11001",
+             "codZonaTerritorialResidencia": "01",
+             "incapacidad": "NO",
+             "consecutivo":56,
+             "codPaisOrigen":"170",
+             "servicios": {
+                 "consultas": [
+                     {
+                         "codPrestador": "110012726601",
+                         "fechaInicioAtencion": "2026-01-14 11:29",
+                         "numAutorizacion": "",
+                         "codConsulta": "890262",
+                         "modalidadGrupoServicioTecSal": "01",
+                         "grupoServicios": "01",
+                         "codServicio": 423,
+                         "finalidadTecnologiaSalud": "13",
+                         "causaMotivoAtencion": "40",
+                         "codDiagnosticoPrincipal": "Z100",
+                         "codDiagnosticoRelacionado1": null,
+                         "codDiagnosticoRelacionado2": null,
+                         "codDiagnosticoRelacionado3": null,
+                         "tipoDiagnosticoPrincipal": "01",
+                         "tipoDocumentoIdentificacion": "CC",
+                         "numDocumentoIdentificacion": "11189178",
+                         "vrServicio": 34000,
+                         "conceptoRecaudo": "05",
+                         "valorPagoModerador": 0,
+                         "numFEVPagoModerador": null,
+                         "consecutivo": 1
+                     }
+                 ]
+             }
+        },
+        {
+             "tipoDocumentoIdentificacion":"CC",
+             "numDocumentoIdentificacion": "53165840",
+             "tipoUsuario": "12",
+             "fechaNacimiento": "1985-08-07",
+             "codSexo": "F",
+             "codPaisResidencia": "170",
+             "codMunicipioResidencia": "11001",
+             "codZonaTerritorialResidencia": "01",
+             "incapacidad": "NO",
+             "consecutivo":57,
+             "codPaisOrigen":"170",
+             "servicios": {
+                 "consultas": [
+                     {
+                         "codPrestador": "110012726601",
+                         "fechaInicioAtencion": "2026-01-13 08:26",
+                         "numAutorizacion": "",
+                         "codConsulta": "890262",
+                         "modalidadGrupoServicioTecSal": "01",
+                         "grupoServicios": "01",
+                         "codServicio": 423,
+                         "finalidadTecnologiaSalud": "13",
+                         "causaMotivoAtencion": "40",
+                         "codDiagnosticoPrincipal": "Z100",
+                         "codDiagnosticoRelacionado1": null,
+                         "codDiagnosticoRelacionado2": null,
+                         "codDiagnosticoRelacionado3": null,
+                         "tipoDiagnosticoPrincipal": "01",
+                         "tipoDocumentoIdentificacion": "CC",
+                         "numDocumentoIdentificacion": "11189178",
+                         "vrServicio": 34000,
+                         "conceptoRecaudo": "05",
+                         "valorPagoModerador": 0,
+                         "numFEVPagoModerador": null,
+                         "consecutivo": 1
+                     }
+                 ]
+             }
+        },
+        {
+             "tipoDocumentoIdentificacion":"CC",
+             "numDocumentoIdentificacion": "53177573",
+             "tipoUsuario": "12",
+             "fechaNacimiento": "1985-09-08",
+             "codSexo": "F",
+             "codPaisResidencia": "170",
+             "codMunicipioResidencia": "11001",
+             "codZonaTerritorialResidencia": "01",
+             "incapacidad": "NO",
+             "consecutivo":58,
+             "codPaisOrigen":"170",
+             "servicios": {
+                 "consultas": [
+                     {
+                         "codPrestador": "110012726601",
+                         "fechaInicioAtencion": "2026-01-13 16:21",
+                         "numAutorizacion": "",
+                         "codConsulta": "890262",
+                         "modalidadGrupoServicioTecSal": "01",
+                         "grupoServicios": "01",
+                         "codServicio": 423,
+                         "finalidadTecnologiaSalud": "13",
+                         "causaMotivoAtencion": "40",
+                         "codDiagnosticoPrincipal": "Z100",
+                         "codDiagnosticoRelacionado1": null,
+                         "codDiagnosticoRelacionado2": null,
+                         "codDiagnosticoRelacionado3": null,
+                         "tipoDiagnosticoPrincipal": "01",
+                         "tipoDocumentoIdentificacion": "CC",
+                         "numDocumentoIdentificacion": "11189178",
+                         "vrServicio": 34000,
+                         "conceptoRecaudo": "05",
+                         "valorPagoModerador": 0,
+                         "numFEVPagoModerador": null,
+                         "consecutivo": 1
+                     }
+                 ]
+             }
+        },
+        {
+             "tipoDocumentoIdentificacion":"CC",
+             "numDocumentoIdentificacion": "80472845",
+             "tipoUsuario": "12",
+             "fechaNacimiento": "1973-06-15",
+             "codSexo": "M",
+             "codPaisResidencia": "170",
+             "codMunicipioResidencia": "11001",
+             "codZonaTerritorialResidencia": "01",
+             "incapacidad": "NO",
+             "consecutivo":59,
+             "codPaisOrigen":"170",
+             "servicios": {
+                 "consultas": [
+                     {
+                         "codPrestador": "110012726601",
+                         "fechaInicioAtencion": "2026-01-13 11:00",
+                         "numAutorizacion": "",
+                         "codConsulta": "890262",
+                         "modalidadGrupoServicioTecSal": "01",
+                         "grupoServicios": "01",
+                         "codServicio": 423,
+                         "finalidadTecnologiaSalud": "13",
+                         "causaMotivoAtencion": "40",
+                         "codDiagnosticoPrincipal": "Z100",
+                         "codDiagnosticoRelacionado1": null,
+                         "codDiagnosticoRelacionado2": null,
+                         "codDiagnosticoRelacionado3": null,
+                         "tipoDiagnosticoPrincipal": "01",
+                         "tipoDocumentoIdentificacion": "CC",
+                         "numDocumentoIdentificacion": "11189178",
+                         "vrServicio": 34000,
+                         "conceptoRecaudo": "05",
+                         "valorPagoModerador": 0,
+                         "numFEVPagoModerador": null,
+                         "consecutivo": 1
+                     }
+                 ]
+             }
+        },
+        {
+             "tipoDocumentoIdentificacion":"CC",
+             "numDocumentoIdentificacion": "80550515",
+             "tipoUsuario": "12",
+             "fechaNacimiento": "1985-11-03",
+             "codSexo": "M",
+             "codPaisResidencia": "170",
+             "codMunicipioResidencia": "11001",
+             "codZonaTerritorialResidencia": "01",
+             "incapacidad": "NO",
+             "consecutivo":60,
+             "codPaisOrigen":"170",
+             "servicios": {
+                 "consultas": [
+                     {
+                         "codPrestador": "110012726601",
+                         "fechaInicioAtencion": "2026-01-13 11:49",
+                         "numAutorizacion": "",
+                         "codConsulta": "890262",
+                         "modalidadGrupoServicioTecSal": "01",
+                         "grupoServicios": "01",
+                         "codServicio": 423,
+                         "finalidadTecnologiaSalud": "13",
+                         "causaMotivoAtencion": "40",
+                         "codDiagnosticoPrincipal": "Z100",
+                         "codDiagnosticoRelacionado1": null,
+                         "codDiagnosticoRelacionado2": null,
+                         "codDiagnosticoRelacionado3": null,
+                         "tipoDiagnosticoPrincipal": "01",
+                         "tipoDocumentoIdentificacion": "CC",
+                         "numDocumentoIdentificacion": "11189178",
+                         "vrServicio": 34000,
+                         "conceptoRecaudo": "05",
+                         "valorPagoModerador": 0,
+                         "numFEVPagoModerador": null,
+                         "consecutivo": 1
+                     }
+                 ]
+             }
+        },
+        {
+             "tipoDocumentoIdentificacion":"CC",
+             "numDocumentoIdentificacion": "93295294",
+             "tipoUsuario": "12",
+             "fechaNacimiento": "1976-02-03",
+             "codSexo": "M",
+             "codPaisResidencia": "170",
+             "codMunicipioResidencia": "11001",
+             "codZonaTerritorialResidencia": "01",
+             "incapacidad": "NO",
+             "consecutivo":61,
+             "codPaisOrigen":"170",
+             "servicios": {
+                 "consultas": [
+                     {
+                         "codPrestador": "110012726601",
+                         "fechaInicioAtencion": "2026-01-14 08:43",
+                         "numAutorizacion": "",
+                         "codConsulta": "890262",
+                         "modalidadGrupoServicioTecSal": "01",
+                         "grupoServicios": "01",
+                         "codServicio": 423,
+                         "finalidadTecnologiaSalud": "13",
+                         "causaMotivoAtencion": "40",
+                         "codDiagnosticoPrincipal": "Z100",
+                         "codDiagnosticoRelacionado1": null,
+                         "codDiagnosticoRelacionado2": null,
+                         "codDiagnosticoRelacionado3": null,
+                         "tipoDiagnosticoPrincipal": "01",
+                         "tipoDocumentoIdentificacion": "CC",
+                         "numDocumentoIdentificacion": "11189178",
+                         "vrServicio": 34000,
+                         "conceptoRecaudo": "05",
+                         "valorPagoModerador": 0,
+                         "numFEVPagoModerador": null,
+                         "consecutivo": 1
+                     }
+                 ]
+             }
+        }
+    ]
+}

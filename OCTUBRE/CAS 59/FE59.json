@@ -1,0 +1,112 @@
+{
+    "numDocumentoIdObligado":"900615719",
+    "numFactura":"CAS59",
+    "tipoNota":null,
+    "numNota":null,
+    "usuarios":[
+        {
+             "tipoDocumentoIdentificacion":"CC",
+             "numDocumentoIdentificacion": "30318820",
+             "tipoUsuario": "12",
+             "fechaNacimiento": "1970-09-05",
+             "codSexo": "F",
+             "codPaisResidencia": "170",
+             "codMunicipioResidencia": "11001",
+             "codZonaTerritorialResidencia": "01",
+             "incapacidad": "NO",
+             "consecutivo":1,
+             "codPaisOrigen":"834",
+             "servicios": {
+                 "consultas": [
+                     {
+                         "codPrestador": "110012726601",
+                         "fechaInicioAtencion": "2025-09-24 11:41",
+                         "numAutorizacion": "",
+                         "codConsulta": "890362",
+                         "modalidadGrupoServicioTecSal": "01",
+                         "grupoServicios": "01",
+                         "codServicio": 423,
+                         "finalidadTecnologiaSalud": "13",
+                         "causaMotivoAtencion": "40",
+                         "codDiagnosticoPrincipal": "Z100",
+                         "codDiagnosticoRelacionado1": null,
+                         "codDiagnosticoRelacionado2": null,
+                         "codDiagnosticoRelacionado3": null,
+                         "tipoDiagnosticoPrincipal": "01",
+                         "tipoDocumentoIdentificacion": "CC",
+                         "numDocumentoIdentificacion": "53015470",
+                         "vrServicio": 51601,
+                         "conceptoRecaudo": "05",
+                         "valorPagoModerador": 0,
+                         "numFEVPagoModerador": null,
+                         "consecutivo": 1
+                     }
+                 ]
+             }
+        },
+        {
+             "tipoDocumentoIdentificacion":"CC",
+             "numDocumentoIdentificacion": "79760174",
+             "tipoUsuario": "12",
+             "fechaNacimiento": "1977-11-05",
+             "codSexo": "M",
+             "codPaisResidencia": "170",
+             "codMunicipioResidencia": "11001",
+             "codZonaTerritorialResidencia": "01",
+             "incapacidad": "NO",
+             "consecutivo":2,
+             "codPaisOrigen":"834",
+             "servicios": {
+                 "consultas": [
+                     {
+                         "codPrestador": "110012726601",
+                         "fechaInicioAtencion": "2025-09-03 11:29",
+                         "numAutorizacion": "",
+                         "codConsulta": "890362",
+                         "modalidadGrupoServicioTecSal": "01",
+                         "grupoServicios": "01",
+                         "codServicio": 423,
+                         "finalidadTecnologiaSalud": "13",
+                         "causaMotivoAtencion": "40",
+                         "codDiagnosticoPrincipal": "Z100",
+                         "codDiagnosticoRelacionado1": null,
+                         "codDiagnosticoRelacionado2": null,
+                         "codDiagnosticoRelacionado3": null,
+                         "tipoDiagnosticoPrincipal": "01",
+                         "tipoDocumentoIdentificacion": "CC",
+                         "numDocumentoIdentificacion": "53015470",
+                         "vrServicio": 51601,
+                         "conceptoRecaudo": "05",
+                         "valorPagoModerador": 0,
+                         "numFEVPagoModerador": null,
+                         "consecutivo": 1
+                     }
+                 ],
+                 "procedimientos": [
+                     {
+                         "codPrestador": "110012726601",
+                         "fechaInicioAtencion": "2025-09-03 12:05",
+                         "idMIPRES": null,
+                         "numAutorizacion": null,
+                         "codProcedimiento": "893700",
+                         "viaIngresoServicioSalud": "01",
+                         "modalidadGrupoServicioTecSal": "01",
+                         "grupoServicios": "01",
+                         "codServicio": 423,
+                         "finalidadTecnologiaSalud": "13", 
+                         "tipoDocumentoIdentificacion": "CC",
+                         "numDocumentoIdentificacion": "40041957",
+                         "codDiagnosticoPrincipal": "Z100",
+                         "codDiagnosticoRelacionado": null,
+                         "codComplicacion": null,
+                         "vrServicio": 32107,
+                         "conceptoRecaudo": "05",
+                         "valorPagoModerador": 0,
+                         "numFEVPagoModerador": null,
+                         "consecutivo": 1
+                     }
+                ]
+             }
+        }
+    ]
+}

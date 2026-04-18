@@ -1,0 +1,48 @@
+{
+    "numDocumentoIdObligado":"900615719",
+    "numFactura":"CAS539",
+    "tipoNota":null,
+    "numNota":null,
+    "usuarios":[
+        {
+             "tipoDocumentoIdentificacion":"CC",
+             "numDocumentoIdentificacion": "57441780",
+             "tipoUsuario": "12",
+             "fechaNacimiento": "1974-12-10",
+             "codSexo": "F",
+             "codPaisResidencia": "170",
+             "codMunicipioResidencia": "11001",
+             "codZonaTerritorialResidencia": "01",
+             "incapacidad": "NO",
+             "consecutivo":1,
+             "codPaisOrigen":"170",
+             "servicios": {
+                 "consultas": [
+                     {
+                         "codPrestador": "110012726601",
+                         "fechaInicioAtencion": "2026-01-28 13:30",
+                         "numAutorizacion": "",
+                         "codConsulta": "954100",
+                         "modalidadGrupoServicioTecSal": "01",
+                         "grupoServicios": "01",
+                         "codServicio": 423,
+                         "finalidadTecnologiaSalud": "13",
+                         "causaMotivoAtencion": "40",
+                         "codDiagnosticoPrincipal": "Z011",
+                         "codDiagnosticoRelacionado1": null,
+                         "codDiagnosticoRelacionado2": null,
+                         "codDiagnosticoRelacionado3": null,
+                         "tipoDiagnosticoPrincipal": "01",
+                         "tipoDocumentoIdentificacion": "CC",
+                         "numDocumentoIdentificacion": "1031133260",
+                         "vrServicio": 50000,
+                         "conceptoRecaudo": "05",
+                         "valorPagoModerador": 0,
+                         "numFEVPagoModerador": null,
+                         "consecutivo": 1
+                     }
+                 ]
+             }
+        }
+    ]
+}

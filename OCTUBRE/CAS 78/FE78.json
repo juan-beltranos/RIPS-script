@@ -1,0 +1,47 @@
+{
+    "numDocumentoIdObligado":"900615719",
+    "numFactura":"CAS78",
+    "tipoNota":null,
+    "numNota":null,
+    "usuarios":[
+        {
+             "tipoDocumentoIdentificacion":"CC",
+             "numDocumentoIdentificacion": "1079032531",
+             "tipoUsuario": "12",
+             "fechaNacimiento": "1987-06-07",
+             "codSexo": "M",
+             "codPaisResidencia": "170",
+             "codMunicipioResidencia": "11001",
+             "codZonaTerritorialResidencia": "01",
+             "incapacidad": "NO",
+             "consecutivo":1,
+             "codPaisOrigen":"170",
+             "servicios": {
+                 "procedimientos": [
+                     {
+                         "codPrestador": "110012726601",
+                         "fechaInicioAtencion": "2025-10-04 11:04",
+                         "idMIPRES": null,
+                         "numAutorizacion": null,
+                         "codProcedimiento": "893700",
+                         "viaIngresoServicioSalud": "01",
+                         "modalidadGrupoServicioTecSal": "01",
+                         "grupoServicios": "01",
+                         "codServicio": 423,
+                         "finalidadTecnologiaSalud": "13", 
+                         "tipoDocumentoIdentificacion": "CC",
+                         "numDocumentoIdentificacion": "40041957",
+                         "codDiagnosticoPrincipal": "Z100",
+                         "codDiagnosticoRelacionado": null,
+                         "codComplicacion": null,
+                         "vrServicio": 17358,
+                         "conceptoRecaudo": "05",
+                         "valorPagoModerador": 0,
+                         "numFEVPagoModerador": null,
+                         "consecutivo": 1
+                     }
+                ]
+             }
+        }
+    ]
+}

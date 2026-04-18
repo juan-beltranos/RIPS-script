@@ -1,0 +1,91 @@
+{
+    "numDocumentoIdObligado":"900615719",
+    "numFactura":"CAS783",
+    "tipoNota":null,
+    "numNota":null,
+    "usuarios":[
+        {
+             "tipoDocumentoIdentificacion":"CC",
+             "numDocumentoIdentificacion": "1031133260",
+             "tipoUsuario": "12",
+             "fechaNacimiento": "1991-07-25",
+             "codSexo": "F",
+             "codPaisResidencia": "170",
+             "codMunicipioResidencia": "11001",
+             "codZonaTerritorialResidencia": "01",
+             "incapacidad": "NO",
+             "consecutivo":1,
+             "codPaisOrigen":"170",
+             "servicios": {
+                 "procedimientos": [
+                     {
+                         "codPrestador": "110012726601",
+                         "fechaInicioAtencion": "2026-02-28 11:16",
+                         "idMIPRES": null,
+                         "numAutorizacion": null,
+                         "codProcedimiento": "904804",
+                         "viaIngresoServicioSalud": "01",
+                         "modalidadGrupoServicioTecSal": "01",
+                         "grupoServicios": "01",
+                         "codServicio": 423,
+                         "finalidadTecnologiaSalud": "13", 
+                         "tipoDocumentoIdentificacion": "CC",
+                         "numDocumentoIdentificacion": "52320624",
+                         "codDiagnosticoPrincipal": "Z100",
+                         "codDiagnosticoRelacionado": null,
+                         "codComplicacion": null,
+                         "vrServicio": 16000,
+                         "conceptoRecaudo": "05",
+                         "valorPagoModerador": 0,
+                         "numFEVPagoModerador": null,
+                         "consecutivo": 1
+                     },
+                     {
+                         "codPrestador": "110012726601",
+                         "fechaInicioAtencion": "2026-02-28 11:14",
+                         "idMIPRES": null,
+                         "numAutorizacion": null,
+                         "codProcedimiento": "903426",
+                         "viaIngresoServicioSalud": "01",
+                         "modalidadGrupoServicioTecSal": "01",
+                         "grupoServicios": "01",
+                         "codServicio": 423,
+                         "finalidadTecnologiaSalud": "13", 
+                         "tipoDocumentoIdentificacion": "CC",
+                         "numDocumentoIdentificacion": "52320624",
+                         "codDiagnosticoPrincipal": "Z100",
+                         "codDiagnosticoRelacionado": null,
+                         "codComplicacion": null,
+                         "vrServicio": 15000,
+                         "conceptoRecaudo": "05",
+                         "valorPagoModerador": 0,
+                         "numFEVPagoModerador": null,
+                         "consecutivo": 2
+                     },
+                     {
+                         "codPrestador": "110012726601",
+                         "fechaInicioAtencion": "2026-02-28 11:14",
+                         "idMIPRES": null,
+                         "numAutorizacion": null,
+                         "codProcedimiento": "903841",
+                         "viaIngresoServicioSalud": "01",
+                         "modalidadGrupoServicioTecSal": "01",
+                         "grupoServicios": "01",
+                         "codServicio": 423,
+                         "finalidadTecnologiaSalud": "13", 
+                         "tipoDocumentoIdentificacion": "CC",
+                         "numDocumentoIdentificacion": "52320624",
+                         "codDiagnosticoPrincipal": "Z100",
+                         "codDiagnosticoRelacionado": null,
+                         "codComplicacion": null,
+                         "vrServicio": 12000,
+                         "conceptoRecaudo": "05",
+                         "valorPagoModerador": 0,
+                         "numFEVPagoModerador": null,
+                         "consecutivo": 3
+                     }
+                ]
+             }
+        }
+    ]
+}

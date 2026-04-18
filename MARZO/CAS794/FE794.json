@@ -1,0 +1,69 @@
+{
+    "numDocumentoIdObligado":"900615719",
+    "numFactura":"CAS794",
+    "tipoNota":null,
+    "numNota":null,
+    "usuarios":[
+        {
+             "tipoDocumentoIdentificacion":"CC",
+             "numDocumentoIdentificacion": "19166855",
+             "tipoUsuario": "12",
+             "fechaNacimiento": "1950-05-14",
+             "codSexo": "M",
+             "codPaisResidencia": "170",
+             "codMunicipioResidencia": "11001",
+             "codZonaTerritorialResidencia": "01",
+             "incapacidad": "NO",
+             "consecutivo":1,
+             "codPaisOrigen":"170",
+             "servicios": {
+                 "procedimientos": [
+                     {
+                         "codPrestador": "110012726601",
+                         "fechaInicioAtencion": "2026-03-06 12:56",
+                         "idMIPRES": null,
+                         "numAutorizacion": null,
+                         "codProcedimiento": "903856",
+                         "viaIngresoServicioSalud": "01",
+                         "modalidadGrupoServicioTecSal": "01",
+                         "grupoServicios": "01",
+                         "codServicio": 423,
+                         "finalidadTecnologiaSalud": "13", 
+                         "tipoDocumentoIdentificacion": "CC",
+                         "numDocumentoIdentificacion": "52320624",
+                         "codDiagnosticoPrincipal": "Z100",
+                         "codDiagnosticoRelacionado": null,
+                         "codComplicacion": null,
+                         "vrServicio": 17000,
+                         "conceptoRecaudo": "05",
+                         "valorPagoModerador": 0,
+                         "numFEVPagoModerador": null,
+                         "consecutivo": 1
+                     },
+                     {
+                         "codPrestador": "110012726601",
+                         "fechaInicioAtencion": "2026-03-06 12:56",
+                         "idMIPRES": null,
+                         "numAutorizacion": null,
+                         "codProcedimiento": "903825",
+                         "viaIngresoServicioSalud": "01",
+                         "modalidadGrupoServicioTecSal": "01",
+                         "grupoServicios": "01",
+                         "codServicio": 423,
+                         "finalidadTecnologiaSalud": "13", 
+                         "tipoDocumentoIdentificacion": "CC",
+                         "numDocumentoIdentificacion": "52320624",
+                         "codDiagnosticoPrincipal": "Z100",
+                         "codDiagnosticoRelacionado": null,
+                         "codComplicacion": null,
+                         "vrServicio": 17000,
+                         "conceptoRecaudo": "05",
+                         "valorPagoModerador": 0,
+                         "numFEVPagoModerador": null,
+                         "consecutivo": 2
+                     }
+                ]
+             }
+        }
+    ]
+}
