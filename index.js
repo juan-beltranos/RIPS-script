@@ -2,8 +2,8 @@ const fs = require("fs");
 const path = require("path");
 
 // ===== CONFIG =====
-const ROOT_DIR = "C:/Users/Developer/Desktop/RIPS ENE MARZO";
-const MONTHS = ["ENERO", "FEBRERO", "MARZO", "OCTUBRE"];
+const ROOT_DIR = "C:/Users/Developer/Desktop/RIPS";
+const MONTHS = ["ENERO", "FEBRERO", "MARZO", "OCTUBRE","DICIEMBRE"];
 
 const DRY_RUN = false;
 const CREATE_BACKUP = false;

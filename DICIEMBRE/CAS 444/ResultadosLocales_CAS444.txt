@@ -1,0 +1,47 @@
+{
+  "ResultState": true,
+  "ProcesoId": 8671,
+  "NumFactura": "CAS444",
+  "CodigoUnicoValidacion": "No aplica a paquetes procesados en estado [RECHAZADO] o validaciones realizadas antes del envío al Ministerio de Salud y Protección Social",
+  "FechaRadicacion": "2026-04-19T14:40:48.5801137-05:00",
+  "Modulo": "FacturaElectronica",
+  "ModalidadPago": "Pago por evento.",
+  "PeriodoAtencion": {
+    "FechaInicio": "2025-12-04T00:00:00",
+    "FechaFin": "2025-12-22T00:00:00"
+  },
+  "ResultadosValidacion": [
+    {
+      "Clase": "NOTIFICACION",
+      "Codigo": "RVC015",
+      "Descripcion": "El código de CUPS puede ser validado que corresponda a una cobertura de consulta.",
+      "Observaciones": "Verificar tabla de referencia Dato (905727)",
+      "PathFuente": "usuarios[0].servicios.consulta[0].codConsulta",
+      "Fuente": "Rips"
+    },
+    {
+      "Clase": "NOTIFICACION",
+      "Codigo": "RVC015",
+      "Descripcion": "El código de CUPS puede ser validado que corresponda a una cobertura de consulta.",
+      "Observaciones": "Verificar tabla de referencia Dato (905727)",
+      "PathFuente": "usuarios[1].servicios.consulta[0].codConsulta",
+      "Fuente": "Rips"
+    },
+    {
+      "Clase": "NOTIFICACION",
+      "Codigo": "RVC059",
+      "Descripcion": "El código de CUPS puede ser validado con el grupo de servicio, servicio, finalidad o causa.",
+      "Observaciones": "Verificar tabla de referencia CodConsulta (905727) - Finalidad (13)",
+      "PathFuente": "usuarios[0].servicios.consulta[0].codConsulta",
+      "Fuente": "Rips"
+    },
+    {
+      "Clase": "NOTIFICACION",
+      "Codigo": "RVC059",
+      "Descripcion": "El código de CUPS puede ser validado con el grupo de servicio, servicio, finalidad o causa.",
+      "Observaciones": "Verificar tabla de referencia CodConsulta (905727) - Finalidad (13)",
+      "PathFuente": "usuarios[1].servicios.consulta[0].codConsulta",
+      "Fuente": "Rips"
+    }
+  ]
+}

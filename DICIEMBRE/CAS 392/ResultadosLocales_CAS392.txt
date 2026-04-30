@@ -1,0 +1,31 @@
+{
+  "ResultState": true,
+  "ProcesoId": 8629,
+  "NumFactura": "CAS392",
+  "CodigoUnicoValidacion": "No aplica a paquetes procesados en estado [RECHAZADO] o validaciones realizadas antes del envío al Ministerio de Salud y Protección Social",
+  "FechaRadicacion": "2026-04-19T14:40:45.1766003-05:00",
+  "Modulo": "FacturaElectronica",
+  "ModalidadPago": "Pago por evento.",
+  "PeriodoAtencion": {
+    "FechaInicio": "2025-12-22T00:00:00",
+    "FechaFin": "2025-12-23T00:00:00"
+  },
+  "ResultadosValidacion": [
+    {
+      "Clase": "NOTIFICACION",
+      "Codigo": "RVC015",
+      "Descripcion": "El código de CUPS puede ser validado que corresponda a una cobertura de consulta.",
+      "Observaciones": "Verificar tabla de referencia Dato (904904)",
+      "PathFuente": "usuarios[0].servicios.consulta[0].codConsulta",
+      "Fuente": "Rips"
+    },
+    {
+      "Clase": "NOTIFICACION",
+      "Codigo": "RVC059",
+      "Descripcion": "El código de CUPS puede ser validado con el grupo de servicio, servicio, finalidad o causa.",
+      "Observaciones": "Verificar tabla de referencia CodConsulta (904904) - Finalidad (13)",
+      "PathFuente": "usuarios[0].servicios.consulta[0].codConsulta",
+      "Fuente": "Rips"
+    }
+  ]
+}

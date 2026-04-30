@@ -1,0 +1,214 @@
+{
+  "ProcesoId": 8647,
+  "NumFactura": "CAS415",
+  "CodigoUnicoValidacion": "No aplica a paquetes procesados en estado [RECHAZADO] o validaciones realizadas antes del envío al Ministerio de Salud y Protección Social",
+  "FechaRadicacion": "2026-04-19T14:40:46.6504061-05:00",
+  "Modulo": "FacturaElectronica",
+  "ModalidadPago": "Pago por evento.",
+  "PeriodoAtencion": {
+    "FechaInicio": "2025-12-13T00:00:00",
+    "FechaFin": "2025-12-26T00:00:00"
+  },
+  "ResultadosValidacion": [
+    {
+      "Clase": "RECHAZADO",
+      "Codigo": "RVC007",
+      "Descripcion": "La edad según la fecha de nacimiento debe coincidir con el tipo de documento registrado",
+      "Observaciones": "El tipo de documento informado [CC] no es válido para la edad del usuario [17].",
+      "PathFuente": "usuarios[0].tipoDocumentoIdentificacion",
+      "Fuente": "Rips"
+    },
+    {
+      "Clase": "RECHAZADO",
+      "Codigo": "RVC007",
+      "Descripcion": "La edad según la fecha de nacimiento debe coincidir con el tipo de documento registrado",
+      "Observaciones": "El tipo de documento informado [CC] no es válido para la edad del usuario [17].",
+      "PathFuente": "usuarios[0].tipoDocumentoIdentificacion",
+      "Fuente": "Rips"
+    },
+    {
+      "Clase": "RECHAZADO",
+      "Codigo": "RVC007",
+      "Descripcion": "La edad según la fecha de nacimiento debe coincidir con el tipo de documento registrado",
+      "Observaciones": "El tipo de documento informado [CC] no es válido para la edad del usuario [17].",
+      "PathFuente": "usuarios[0].tipoDocumentoIdentificacion",
+      "Fuente": "Rips"
+    },
+    {
+      "Clase": "RECHAZADO",
+      "Codigo": "RVC007",
+      "Descripcion": "La edad según la fecha de nacimiento debe coincidir con el tipo de documento registrado",
+      "Observaciones": "El tipo de documento informado [CC] no es válido para la edad del usuario [17].",
+      "PathFuente": "usuarios[0].tipoDocumentoIdentificacion",
+      "Fuente": "Rips"
+    },
+    {
+      "Clase": "RECHAZADO",
+      "Codigo": "RVC007",
+      "Descripcion": "La edad según la fecha de nacimiento debe coincidir con el tipo de documento registrado",
+      "Observaciones": "El tipo de documento informado [CC] no es válido para la edad del usuario [17].",
+      "PathFuente": "usuarios[0].tipoDocumentoIdentificacion",
+      "Fuente": "Rips"
+    },
+    {
+      "Clase": "NOTIFICACION",
+      "Codigo": "RVC015",
+      "Descripcion": "El código de CUPS puede ser validado que corresponda a una cobertura de consulta.",
+      "Observaciones": "Verificar tabla de referencia Dato (954100)",
+      "PathFuente": "usuarios[0].servicios.consulta[2].codConsulta",
+      "Fuente": "Rips"
+    },
+    {
+      "Clase": "NOTIFICACION",
+      "Codigo": "RVC017",
+      "Descripcion": "El código de CUPS puede ser validado que corresponda a la cobertura o plan de beneficios informada en la factura electrónica de venta.",
+      "Observaciones": "Verificar tabla de referencia Dato (890203)",
+      "PathFuente": "usuarios[0].servicios.consulta[0].codConsulta",
+      "Fuente": "Rips"
+    },
+    {
+      "Clase": "NOTIFICACION",
+      "Codigo": "RVC017",
+      "Descripcion": "El código de CUPS puede ser validado que corresponda a la cobertura o plan de beneficios informada en la factura electrónica de venta.",
+      "Observaciones": "Verificar tabla de referencia Dato (890203)",
+      "PathFuente": "usuarios[1].servicios.consulta[1].codConsulta",
+      "Fuente": "Rips"
+    },
+    {
+      "Clase": "NOTIFICACION",
+      "Codigo": "RVC017",
+      "Descripcion": "El código de CUPS puede ser validado que corresponda a la cobertura o plan de beneficios informada en la factura electrónica de venta.",
+      "Observaciones": "Verificar tabla de referencia Dato (890207)",
+      "PathFuente": "usuarios[0].servicios.consulta[3].codConsulta",
+      "Fuente": "Rips"
+    },
+    {
+      "Clase": "NOTIFICACION",
+      "Codigo": "RVC017",
+      "Descripcion": "El código de CUPS puede ser validado que corresponda a la cobertura o plan de beneficios informada en la factura electrónica de venta.",
+      "Observaciones": "Verificar tabla de referencia Dato (890262)",
+      "PathFuente": "usuarios[0].servicios.consulta[1].codConsulta",
+      "Fuente": "Rips"
+    },
+    {
+      "Clase": "NOTIFICACION",
+      "Codigo": "RVC017",
+      "Descripcion": "El código de CUPS puede ser validado que corresponda a la cobertura o plan de beneficios informada en la factura electrónica de venta.",
+      "Observaciones": "Verificar tabla de referencia Dato (890262)",
+      "PathFuente": "usuarios[0].servicios.consulta[4].codConsulta",
+      "Fuente": "Rips"
+    },
+    {
+      "Clase": "NOTIFICACION",
+      "Codigo": "RVC017",
+      "Descripcion": "El código de CUPS puede ser validado que corresponda a la cobertura o plan de beneficios informada en la factura electrónica de venta.",
+      "Observaciones": "Verificar tabla de referencia Dato (890262)",
+      "PathFuente": "usuarios[1].servicios.consulta[0].codConsulta",
+      "Fuente": "Rips"
+    },
+    {
+      "Clase": "NOTIFICACION",
+      "Codigo": "RVC018",
+      "Descripcion": "El código de CUPS se puede validar según la cantidad de veces que se informe por paciente y por día.",
+      "Observaciones": "Código consulta : 890262 - Fecha Atención: 2025-12-13",
+      "PathFuente": "usuarios[0].servicios.consultas[0].codConsulta",
+      "Fuente": "Rips"
+    },
+    {
+      "Clase": "NOTIFICACION",
+      "Codigo": "RVC019",
+      "Descripcion": "El código de CUPS se puede validar con el diagnóstico principal.",
+      "Observaciones": "Verificar tabla de referencia Dato (890203)",
+      "PathFuente": "usuarios[0].servicios.consulta[0].codConsulta",
+      "Fuente": "Rips"
+    },
+    {
+      "Clase": "NOTIFICACION",
+      "Codigo": "RVC019",
+      "Descripcion": "El código de CUPS se puede validar con el diagnóstico principal.",
+      "Observaciones": "Verificar tabla de referencia Dato (890203)",
+      "PathFuente": "usuarios[1].servicios.consulta[1].codConsulta",
+      "Fuente": "Rips"
+    },
+    {
+      "Clase": "NOTIFICACION",
+      "Codigo": "RVC019",
+      "Descripcion": "El código de CUPS se puede validar con el diagnóstico principal.",
+      "Observaciones": "Verificar tabla de referencia Dato (890207)",
+      "PathFuente": "usuarios[0].servicios.consulta[3].codConsulta",
+      "Fuente": "Rips"
+    },
+    {
+      "Clase": "NOTIFICACION",
+      "Codigo": "RVC019",
+      "Descripcion": "El código de CUPS se puede validar con el diagnóstico principal.",
+      "Observaciones": "Verificar tabla de referencia Dato (890262)",
+      "PathFuente": "usuarios[0].servicios.consulta[1].codConsulta",
+      "Fuente": "Rips"
+    },
+    {
+      "Clase": "NOTIFICACION",
+      "Codigo": "RVC019",
+      "Descripcion": "El código de CUPS se puede validar con el diagnóstico principal.",
+      "Observaciones": "Verificar tabla de referencia Dato (890262)",
+      "PathFuente": "usuarios[0].servicios.consulta[4].codConsulta",
+      "Fuente": "Rips"
+    },
+    {
+      "Clase": "NOTIFICACION",
+      "Codigo": "RVC019",
+      "Descripcion": "El código de CUPS se puede validar con el diagnóstico principal.",
+      "Observaciones": "Verificar tabla de referencia Dato (890262)",
+      "PathFuente": "usuarios[1].servicios.consulta[0].codConsulta",
+      "Fuente": "Rips"
+    },
+    {
+      "Clase": "NOTIFICACION",
+      "Codigo": "RVC059",
+      "Descripcion": "El código de CUPS puede ser validado con el grupo de servicio, servicio, finalidad o causa.",
+      "Observaciones": "Verificar tabla de referencia CodConsulta (890203) - Finalidad (13)",
+      "PathFuente": "usuarios[1].servicios.consulta[1].codConsulta",
+      "Fuente": "Rips"
+    },
+    {
+      "Clase": "NOTIFICACION",
+      "Codigo": "RVC059",
+      "Descripcion": "El código de CUPS puede ser validado con el grupo de servicio, servicio, finalidad o causa.",
+      "Observaciones": "Verificar tabla de referencia CodConsulta (890203) - Finalidad (13)",
+      "PathFuente": "usuarios[0].servicios.consulta[0].codConsulta",
+      "Fuente": "Rips"
+    },
+    {
+      "Clase": "NOTIFICACION",
+      "Codigo": "RVC059",
+      "Descripcion": "El código de CUPS puede ser validado con el grupo de servicio, servicio, finalidad o causa.",
+      "Observaciones": "Verificar tabla de referencia CodConsulta (890207) - Finalidad (13)",
+      "PathFuente": "usuarios[0].servicios.consulta[3].codConsulta",
+      "Fuente": "Rips"
+    },
+    {
+      "Clase": "NOTIFICACION",
+      "Codigo": "RVC059",
+      "Descripcion": "El código de CUPS puede ser validado con el grupo de servicio, servicio, finalidad o causa.",
+      "Observaciones": "Verificar tabla de referencia CodConsulta (890262) - Finalidad (13)",
+      "PathFuente": "usuarios[1].servicios.consulta[0].codConsulta",
+      "Fuente": "Rips"
+    },
+    {
+      "Clase": "NOTIFICACION",
+      "Codigo": "RVC059",
+      "Descripcion": "El código de CUPS puede ser validado con el grupo de servicio, servicio, finalidad o causa.",
+      "Observaciones": "Verificar tabla de referencia CodConsulta (890262) - Finalidad (13)",
+      "PathFuente": "usuarios[0].servicios.consulta[1].codConsulta",
+      "Fuente": "Rips"
+    },
+    {
+      "Clase": "NOTIFICACION",
+      "Codigo": "RVC059",
+      "Descripcion": "El código de CUPS puede ser validado con el grupo de servicio, servicio, finalidad o causa.",
+      "Observaciones": "Verificar tabla de referencia CodConsulta (954100) - Finalidad (13)",
+      "PathFuente": "usuarios[0].servicios.consulta[2].codConsulta",
+      "Fuente": "Rips"
+    }
+  ]
+}
